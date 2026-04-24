@@ -1,0 +1,840 @@
+match_id,team,player,minute,x,y,xg,outcome,body_part,technique,play_pattern,distance_to_goal,is_zone0
+3773386,Barcelona,Anssumane Fati,12,108.6,28.0,0.2009693,Off T,Right Foot,Normal,From Throw In,16.55173706896047,True
+3773386,Deportivo Alavés,Edgar Antonio Méndez Ortega,16,103.6,51.0,0.096383646,Saved,Right Foot,Normal,Regular Play,19.747404892795412,True
+3773386,Barcelona,Antoine Griezmann,19,104.3,33.9,0.09887917,Off T,Left Foot,Normal,From Throw In,16.843396332094073,True
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,22,97.9,44.3,0.07893826,Blocked,Left Foot,Normal,From Free Kick,22.514439810930224,False
+3773386,Deportivo Alavés,Luis Jesús Rioja González,30,118.3,42.1,0.9761923,Goal,Left Foot,Normal,Regular Play,2.7018512172212623,True
+3773386,Barcelona,Frenkie de Jong,35,113.1,39.3,0.20307332,Off T,Head,Normal,From Free Kick,6.935416353759886,True
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,42,101.3,41.6,0.09501523,Blocked,Left Foot,Normal,From Free Kick,18.768324379123463,True
+3773386,Deportivo Alavés,Florian Grégoire Claude Lejeune,44,84.7,42.1,0.017764185,Off T,Right Foot,Normal,From Free Kick,35.36240942017384,False
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,45,105.3,32.9,0.11245217,Saved,Left Foot,Normal,From Goal Kick,16.324827717314513,True
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,47,113.3,26.1,0.054102834,Saved,Left Foot,Normal,Regular Play,15.430489298787643,True
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,50,107.4,27.2,0.030959154,Saved,Left Foot,Normal,From Throw In,17.96106901050157,True
+3773386,Barcelona,Anssumane Fati,53,111.5,31.6,0.08542095,Off T,Left Foot,Volley,From Throw In,11.950313803411188,True
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,59,99.0,24.7,0.044592485,Off T,Left Foot,Normal,From Free Kick,25.98249410660955,False
+3773386,Barcelona,Antoine Griezmann,62,107.6,31.3,0.29141483,Goal,Left Foot,Lob,From Free Kick,15.147607071745693,True
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,64,108.4,49.5,0.07794037,Saved,Left Foot,Normal,From Throw In,14.9936653290648,True
+3773386,Barcelona,Miralem Pjanić,67,98.2,34.7,0.048743222,Off T,Right Foot,Normal,From Free Kick,22.435017272112805,False
+3773386,Deportivo Alavés,José Luis Sanmartín Mato,68,106.6,35.3,0.03818405,Saved,Head,Normal,From Goal Kick,14.200352108310561,True
+3773386,Barcelona,Anssumane Fati,73,103.2,35.7,0.051461197,Blocked,Right Foot,Half Volley,From Throw In,17.341568556506065,True
+3773386,Barcelona,Anssumane Fati,77,103.4,24.7,0.034160636,Saved,Right Foot,Normal,Regular Play,22.575429121059912,False
+3773386,Barcelona,Francisco António Machado Mota de Castro Trincão,77,96.4,46.8,0.03886047,Blocked,Left Foot,Normal,From Throw In,24.560130292813994,False
+3773386,Barcelona,Francisco António Machado Mota de Castro Trincão,82,97.5,49.6,0.037237283,Blocked,Left Foot,Normal,Regular Play,24.462420158275428,False
+3773386,Barcelona,Sergino Dest,83,92.9,28.0,0.021675078,Blocked,Right Foot,Normal,From Corner,29.637982387470302,False
+3773386,Barcelona,Sergino Dest,87,106.4,49.8,0.064202756,Saved,Right Foot,Normal,From Free Kick,16.763054614240204,True
+3773386,Barcelona,Miralem Pjanić,87,88.7,39.7,0.020938296,Saved,Right Foot,Normal,From Free Kick,31.30143766666317,False
+3773386,Barcelona,Gerard Piqué Bernabéu,88,114.5,46.0,0.104497105,Blocked,Head,Normal,From Corner,8.139410298049853,True
+3773386,Barcelona,Gerard Piqué Bernabéu,89,108.9,44.1,0.15296176,Off T,Right Foot,Normal,From Throw In,11.833004690272032,True
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,90,94.0,49.1,0.02749131,Blocked,Left Foot,Normal,From Corner,27.54650613054222,False
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,93,99.0,46.8,0.051498987,Blocked,Left Foot,Normal,From Free Kick,22.07351353998724,False
+3773386,Barcelona,Lionel Andrés Messi Cuccittini,93,104.9,49.8,0.063643776,Off T,Left Foot,Normal,From Corner,18.001388835309342,True
+3773565,Granada,José Antonio Rodríguez Díaz,1,101.1,50.9,0.04283516,Saved,Right Foot,Normal,Regular Play,21.817882573705457,True
+3773565,Barcelona,Pedro González López,10,106.6,34.6,0.09201574,Blocked,Right Foot,Normal,From Counter,14.447145046686565,True
+3773565,Barcelona,Antoine Griezmann,11,110.4,37.9,0.4184496,Goal,Left Foot,Normal,From Corner,9.827003612495515,True
+3773565,Barcelona,Ousmane Dembélé,15,103.1,57.1,0.014482854,Off T,Right Foot,Normal,Regular Play,24.042046501909944,False
+3773565,Granada,José Antonio Rodríguez Díaz,16,92.6,47.5,0.025733665,Blocked,Left Foot,Normal,From Goal Kick,28.40792143047429,False
+3773565,Granada,Roberto Soldado Rillo,22,109.5,55.4,0.058749907,Off T,Right Foot,Normal,From Throw In,18.638937737972086,True
+3773565,Barcelona,Antoine Griezmann,29,103.1,31.4,0.069709174,Blocked,Right Foot,Normal,From Free Kick,18.96233108032871,True
+3773565,Granada,Darwin Daniel Machís Marcano,32,99.2,56.5,0.024455013,Saved,Left Foot,Normal,From Corner,26.549764594059962,False
+3773565,Barcelona,Lionel Andrés Messi Cuccittini,34,103.9,37.9,0.056093782,Goal,Left Foot,Normal,Regular Play,16.23637890664048,True
+3773565,Barcelona,Ousmane Dembélé,38,100.5,45.8,0.06687891,Off T,Right Foot,Normal,From Goal Kick,20.344286667268527,True
+3773565,Barcelona,Lionel Andrés Messi Cuccittini,41,100.8,43.8,0.093079254,Goal,Left Foot,Normal,From Free Kick,19.572429588581997,True
+3773565,Granada,José Antonio Rodríguez Díaz,49,104.0,35.9,0.09590488,Saved,Right Foot,Normal,From Free Kick,16.51696097955069,True
+3773565,Barcelona,Frenkie de Jong,55,102.1,45.6,0.124102466,Off T,Right Foot,Normal,From Free Kick,18.755532517100125,True
+3773565,Granada,Darwin Daniel Machís Marcano,59,111.1,32.3,0.1629772,Off T,Left Foot,Half Volley,From Throw In,11.768602295939825,True
+3773565,Barcelona,Antoine Griezmann,62,113.2,52.5,0.052568585,Goal,Right Foot,Half Volley,From Throw In,14.229898102235305,True
+3773565,Barcelona,Jordi Alba Ramos,66,107.6,29.1,0.10014443,Off T,Left Foot,Half Volley,From Throw In,16.509694121939393,True
+3773565,Barcelona,Antoine Griezmann,74,103.5,49.5,0.059421957,Off T,Right Foot,Half Volley,From Free Kick,19.03943276465977,True
+3773565,Barcelona,Miralem Pjanić,79,100.2,33.3,0.08820046,Blocked,Right Foot,Normal,From Free Kick,20.90287061625747,True
+3773565,Barcelona,Martin Braithwaite Christensen,79,94.0,44.4,0.034058154,Blocked,Right Foot,Normal,From Free Kick,26.369679558159216,False
+3773565,Granada,Robert Kenedy Nunes do Nascimento,80,100.6,58.9,0.011698737,Saved,Left Foot,Normal,From Free Kick,27.08449741088064,False
+3773565,Granada,Luis Javier Suárez Charris,84,103.8,56.4,0.028624984,Blocked,Right Foot,Normal,From Counter,23.05211487044085,False
+3773565,Barcelona,Martin Braithwaite Christensen,89,115.0,44.6,0.22362103,Off T,Right Foot,Normal,From Throw In,6.794115100585213,True
+3773457,Barcelona,Pedro González López,6,98.9,42.8,0.050982397,Off T,Left Foot,Normal,From Corner,21.284971223847116,True
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,9,105.5,42.9,0.09020188,Blocked,Left Foot,Normal,Regular Play,14.787156589419077,True
+3773457,Barcelona,Antoine Griezmann,9,116.5,31.4,0.23502783,Saved,Left Foot,Normal,Regular Play,9.28493403315285,True
+3773457,Barcelona,Ousmane Dembélé,14,108.0,54.9,0.0596119,Saved,Right Foot,Normal,From Counter,19.131387822110554,True
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,16,95.2,41.5,0.054610096,Off T,Left Foot,Normal,Regular Play,24.84532149117817,False
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,18,113.1,28.9,0.101339325,Off T,Left Foot,Volley,From Free Kick,13.069812546475182,True
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,27,112.3,45.1,0.16491379,Goal,Head,Normal,Regular Play,9.235799911215057,True
+3773457,Barcelona,Antoine Griezmann,30,108.0,31.0,0.03680788,Off T,Head,Normal,From Corner,15.0,True
+3773457,Celta Vigo,Santiago Mina Lorenzo,37,97.2,37.6,0.051378094,Goal,Right Foot,Normal,From Throw In,22.925967809451357,False
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,41,97.4,45.4,0.04007158,Blocked,Left Foot,Normal,Regular Play,23.236178687555313,False
+3773457,Barcelona,Moriba Kourouma Kourouma,53,97.4,49.7,0.029657349,Off T,Right Foot,Normal,Regular Play,24.593698379869583,False
+3773457,Barcelona,Ronald Federico Araújo da Silva,60,117.8,38.0,0.5642073,Off T,Head,Normal,From Corner,2.973213749463703,True
+3773457,Barcelona,Ousmane Dembélé,62,99.8,51.3,0.036774643,Blocked,Right Foot,Normal,From Corner,23.145841959194314,False
+3773457,Barcelona,Moriba Kourouma Kourouma,65,105.5,38.5,0.13638648,Off T,Head,Normal,Regular Play,14.577379737113251,True
+3773457,Celta Vigo,Denis Suárez Fernández,70,102.4,30.5,0.07740248,Saved,Right Foot,Normal,Regular Play,20.000249998437514,True
+3773457,Barcelona,Ronald Federico Araújo da Silva,71,88.1,50.9,0.015701557,Off T,Right Foot,Normal,From Throw In,33.71082912062532,False
+3773457,Barcelona,Jordi Alba Ramos,80,109.5,27.1,0.090813234,Off T,Left Foot,Normal,From Corner,16.633099530754933,True
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,84,101.8,45.3,0.07324356,Saved,Left Foot,Half Volley,From Free Kick,18.956001688119784,True
+3773457,Celta Vigo,Augusto Jorge Mateo Solari,86,107.4,40.5,0.25516874,Saved,Right Foot,Normal,Regular Play,12.609916732476858,True
+3773457,Barcelona,Martin Braithwaite Christensen,86,112.8,35.0,0.17842196,Off T,Right Foot,Half Volley,Regular Play,8.765842800324451,True
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,87,108.7,30.9,0.085805565,Wayward,Left Foot,Normal,Regular Play,14.508618128546908,True
+3773457,Celta Vigo,Santiago Mina Lorenzo,88,112.9,45.0,0.3457039,Goal,Right Foot,Half Volley,Regular Play,8.683893136145787,True
+3773457,Barcelona,Ronald Federico Araújo da Silva,90,103.9,40.6,0.027145049,Blocked,Head,Normal,From Free Kick,16.11117624507906,True
+3773457,Barcelona,Sergino Dest,91,109.1,60.5,0.008288619,Off T,Right Foot,Normal,Regular Play,23.217665688005763,False
+3773457,Barcelona,Lionel Andrés Messi Cuccittini,92,99.8,35.6,0.07906983,Off T,Left Foot,Normal,From Counter,20.67365473253339,True
+3773631,Real Betis,Borja Iglesias Quintas,10,115.3,34.7,0.10217343,Blocked,Right Foot,Normal,From Throw In,7.083784299369935,True
+3773631,Barcelona,Ousmane Dembélé,17,103.3,44.6,0.06957128,Blocked,Right Foot,Normal,From Free Kick,17.321951391226108,True
+3773631,Real Betis,Juan Miguel Jiménez López,24,114.0,32.4,0.1273561,Off T,Head,Normal,Regular Play,9.682974749528164,True
+3773631,Barcelona,Clément Lenglet,27,113.8,42.7,0.16972353,Off T,Head,Normal,From Corner,6.762396025078688,True
+3773631,Real Betis,Borja Iglesias Quintas,37,111.7,42.4,0.44097158,Goal,Left Foot,Normal,Regular Play,8.640023148117136,True
+3773631,Barcelona,Martin Braithwaite Christensen,47,108.7,40.1,0.060599968,Off T,Head,Normal,From Free Kick,11.300442469213316,True
+3773631,Barcelona,Óscar Mingueza García,47,101.8,44.9,0.06390779,Saved,Right Foot,Normal,Regular Play,18.848076824970768,True
+3773631,Barcelona,Antoine Griezmann,48,117.0,28.1,0.018656503,Wayward,Head,Normal,From Corner,12.2723265927859,True
+3773631,Barcelona,Antoine Griezmann,52,111.8,35.3,0.14799254,Blocked,Left Foot,Half Volley,Regular Play,9.451454914456297,True
+3773631,Real Betis,Juan Miguel Jiménez López,55,107.7,34.4,0.3704533,Saved,Right Foot,Normal,Regular Play,13.514806694880987,True
+3773631,Barcelona,Ousmane Dembélé,58,103.9,56.1,0.036253028,Off T,Left Foot,Normal,Regular Play,22.768838354206828,False
+3773631,Barcelona,Lionel Andrés Messi Cuccittini,58,102.5,52.6,0.056231674,Goal,Left Foot,Normal,Regular Play,21.56409052104911,True
+3773631,Real Betis,Nabil Fekir,62,99.4,56.2,0.02668288,Saved,Left Foot,Normal,Regular Play,26.206869328479506,False
+3773631,Barcelona,Ousmane Dembélé,65,109.7,53.0,0.13531347,Blocked,Right Foot,Normal,Regular Play,16.58583733189253,True
+3773631,Barcelona,Óscar Mingueza García,65,116.6,34.1,0.11360259,Off T,Head,Normal,From Corner,6.809552114493289,True
+3773631,Real Betis,Víctor Ruíz Torre,74,116.2,42.2,0.1947324,Goal,Head,Normal,From Free Kick,4.390899680020029,True
+3773631,Barcelona,Lionel Andrés Messi Cuccittini,78,98.3,52.0,0.064184494,Blocked,Left Foot,Normal,From Free Kick,24.796975622039074,False
+3773631,Real Betis,Víctor Ruíz Torre,82,111.0,44.0,0.091646455,Saved,Head,Normal,From Corner,9.848857801796104,True
+3773631,Real Betis,Sergio Canales Madrazo,84,97.1,46.0,0.041051574,Blocked,Left Foot,Normal,From Throw In,23.672980378482137,False
+3773631,Barcelona,Francisco António Machado Mota de Castro Trincão,86,102.5,49.9,0.051537734,Goal,Left Foot,Normal,Regular Play,20.106217943710845,True
+3773665,Osasuna,Jonathan Calleri,1,40.0,45.7,0.004130807,Saved,Right Foot,Normal,From Throw In,80.20280543721647,False
+3773665,Osasuna,Enrique Barja Afonso,13,100.2,42.9,0.057224557,Saved,Left Foot,Normal,Regular Play,20.011246837716033,True
+3773665,Osasuna,Jonathan Calleri,14,113.4,38.0,0.22981732,Off T,Head,Normal,From Corner,6.896375859826661,True
+3773665,Barcelona,Lionel Andrés Messi Cuccittini,15,101.3,42.6,0.07305303,Blocked,Left Foot,Normal,From Goal Kick,18.87988347421668,True
+3773665,Osasuna,Jonathan Calleri,22,114.3,29.7,0.12096324,Blocked,Right Foot,Volley,Regular Play,11.772000679578642,True
+3773665,Barcelona,Antoine Griezmann,25,107.5,40.1,0.04363723,Off T,Head,Normal,From Keeper,12.500399993600205,True
+3773665,Barcelona,Jordi Alba Ramos,29,113.1,28.2,0.1538112,Goal,Left Foot,Normal,From Keeper,13.669308687713512,True
+3773665,Osasuna,Rubén García Santos,33,112.2,29.8,0.30000883,Saved,Left Foot,Normal,Regular Play,12.840560735419615,True
+3773665,Osasuna,Jonathan Calleri,33,102.5,40.2,0.025620336,Blocked,Head,Normal,Regular Play,17.50114281982751,True
+3773665,Barcelona,Lionel Andrés Messi Cuccittini,42,97.0,26.8,0.027122034,Blocked,Left Foot,Normal,Regular Play,26.51867266663247,False
+3773665,Barcelona,Lionel Andrés Messi Cuccittini,43,100.8,31.2,0.03751865,Blocked,Left Foot,Normal,Regular Play,21.12060605191054,True
+3773665,Barcelona,Lionel Andrés Messi Cuccittini,47,94.4,47.5,0.028897893,Saved,Left Foot,Normal,Regular Play,26.67601919327544,False
+3773665,Barcelona,Ousmane Dembélé,50,95.8,40.3,0.048145216,Blocked,Right Foot,Normal,From Goal Kick,24.20185943269649,False
+3773665,Barcelona,Sergino Dest,56,102.2,51.2,0.045629695,Blocked,Left Foot,Normal,Regular Play,21.0304541082688,True
+3773665,Barcelona,Frenkie de Jong,60,110.7,50.7,0.15424673,Blocked,Right Foot,Normal,From Throw In,14.176741515595184,True
+3773665,Osasuna,Jonathan Calleri,69,111.4,38.3,0.17912224,Off T,Head,Normal,From Corner,8.766413177577242,True
+3773665,Barcelona,Pedro González López,76,93.1,32.5,0.026436986,Saved,Right Foot,Normal,From Throw In,27.925973573001897,False
+3773665,Barcelona,Jordi Alba Ramos,78,115.5,30.6,0.18142118,Saved,Left Foot,Volley,From Throw In,10.42161215935423,True
+3773665,Barcelona,Lionel Andrés Messi Cuccittini,81,112.4,47.7,0.1681818,Saved,Left Foot,Normal,Regular Play,10.818964830333814,True
+3773665,Barcelona,Moriba Kourouma Kourouma,82,101.7,41.2,0.068824455,Goal,Left Foot,Normal,Regular Play,18.339302058693505,True
+3773665,Osasuna,Ante Budimir,84,105.9,39.8,0.072080754,Blocked,Left Foot,Half Volley,Regular Play,14.101418368376985,True
+3773665,Osasuna,Adrián López Álvarez,88,103.8,51.1,0.06182509,Off T,Right Foot,Half Volley,From Throw In,19.637973418863773,True
+3773665,Osasuna,David García Zubiría,92,112.7,37.9,0.15743414,Off T,Head,Normal,From Throw In,7.596051605933175,True
+3773497,Barcelona,Óscar Mingueza García,9,101.9,58.1,0.023533026,Off T,Right Foot,Normal,Regular Play,25.597265478953016,False
+3773497,Real Madrid,Karim Benzema,12,113.8,45.4,0.16896226,Goal,Right Foot,Backheel,Regular Play,8.221921916437788,True
+3773497,Barcelona,Ousmane Dembélé,15,116.1,38.6,0.3056659,Wayward,Head,Normal,From Throw In,4.143669871020137,True
+3773497,Real Madrid,Luka Modrić,20,103.1,35.5,0.06698707,Blocked,Left Foot,Normal,Regular Play,17.48885359307465,True
+3773497,Real Madrid,Karim Benzema,23,90.9,34.5,0.0419699,Off T,Right Foot,Normal,From Free Kick,29.61519880061587,False
+3773497,Real Madrid,Toni Kroos,27,101.0,27.2,0.068962805,Goal,Right Foot,Normal,From Free Kick,22.90938672247688,False
+3773497,Real Madrid,Federico Santiago Valverde Dipetta,33,107.3,53.4,0.09082136,Post,Right Foot,Normal,Regular Play,18.46212338816963,True
+3773497,Real Madrid,Lucas Vázquez Iglesias,33,105.9,42.4,0.15830496,Saved,Right Foot,Half Volley,Regular Play,14.302796929272255,True
+3773497,Real Madrid,Federico Santiago Valverde Dipetta,34,96.2,47.9,0.027073873,Blocked,Right Foot,Volley,From Corner,25.07688178382631,False
+3773497,Real Madrid,Éder Gabriel Militão,34,108.6,41.4,0.1361084,Blocked,Right Foot,Half Volley,From Corner,11.48564321228899,True
+3773497,Barcelona,Ousmane Dembélé,36,94.9,46.8,0.03774876,Blocked,Left Foot,Normal,Regular Play,26.004807247891684,False
+3773497,Barcelona,Lionel Andrés Messi Cuccittini,40,99.8,33.8,0.04994738,Blocked,Left Foot,Normal,Regular Play,21.13007335529151,True
+3773497,Barcelona,Lionel Andrés Messi Cuccittini,44,112.8,24.6,0.01567179,Blocked,Left Foot,Normal,From Throw In,17.0,True
+3773497,Barcelona,Lionel Andrés Messi Cuccittini,47,117.0,47.2,0.13461363,Saved,Left Foot,Half Volley,From Corner,7.8000000000000025,True
+3773497,Barcelona,Lionel Andrés Messi Cuccittini,47,114.1,32.7,0.06691165,Blocked,Left Foot,Normal,Regular Play,9.386160024205854,True
+3773497,Real Madrid,Toni Kroos,52,93.8,41.8,0.040328264,Off T,Right Foot,Normal,Regular Play,26.261759270848557,False
+3773497,Real Madrid,Karim Benzema,56,101.3,30.6,0.104605675,Off T,Left Foot,Normal,Regular Play,20.929644048573785,True
+3773497,Barcelona,Óscar Mingueza García,59,110.6,39.8,0.3197491,Goal,Right Foot,Half Volley,Regular Play,9.402127418834533,True
+3773497,Barcelona,Lionel Andrés Messi Cuccittini,64,90.5,35.5,0.04573942,Blocked,Left Foot,Normal,From Free Kick,29.841246622753548,False
+3773497,Real Madrid,Toni Kroos,67,112.2,43.1,0.16597773,Wayward,Head,Normal,From Free Kick,8.393449827097315,True
+3773497,Barcelona,Lionel Andrés Messi Cuccittini,69,97.2,34.9,0.07932068,Blocked,Left Foot,Normal,From Free Kick,23.363432966925043,False
+3773497,Barcelona,Óscar Mingueza García,70,113.6,56.5,0.012394485,Wayward,Right Foot,Normal,Regular Play,17.69773996870787,True
+3773497,Barcelona,Moriba Kourouma Kourouma,74,112.1,32.9,0.063872784,Saved,Head,Normal,From Throw In,10.62167595062098,True
+3773497,Real Madrid,Francisco Román Alarcón Suárez,76,103.6,40.4,0.15727945,Blocked,Right Foot,Normal,From Corner,16.40487732352791,True
+3773497,Real Madrid,Marcelo Vieira da Silva Júnior,76,102.2,29.5,0.045265324,Off T,Left Foot,Half Volley,From Corner,20.666155907667008,True
+3773497,Real Madrid,Francisco Román Alarcón Suárez,81,102.3,49.2,0.04911825,Off T,Right Foot,Half Volley,From Throw In,19.948182874637983,True
+3773497,Barcelona,Lionel Andrés Messi Cuccittini,90,98.3,52.5,0.06397319,Saved,Left Foot,Normal,From Free Kick,25.042763425788298,False
+3773497,Barcelona,Moriba Kourouma Kourouma,91,101.3,29.1,0.05946907,Off T,Right Foot,Normal,From Goal Kick,21.644860821913365,True
+3773497,Barcelona,Martin Braithwaite Christensen,92,109.4,31.2,0.046457313,Off T,Head,Normal,Regular Play,13.776792079435616,True
+3773497,Barcelona,Moriba Kourouma Kourouma,93,108.1,39.1,0.070164755,Blocked,Right Foot,Volley,From Free Kick,11.933985084622828,True
+3773497,Barcelona,Marc-André ter Stegen,93,102.0,41.1,0.057932165,Blocked,Right Foot,Half Volley,From Free Kick,18.033579788827286,True
+3773497,Barcelona,Jordi Alba Ramos,93,100.6,33.2,0.04129878,Off T,Left Foot,Volley,From Free Kick,20.557237168452385,True
+3773660,Barcelona,Philippe Coutinho Correia,0,108.3,46.6,0.09013731,Off T,Right Foot,Normal,From Throw In,13.43316790634287,True
+3773660,Levante UD,Jorge De Frutos Sebastián,11,109.3,39.0,0.4531274,Saved,Left Foot,Normal,From Keeper,10.746627377926531,True
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,12,103.8,32.1,0.06609147,Blocked,Left Foot,Normal,From Throw In,18.023595645708436,True
+3773660,Barcelona,Martin Braithwaite Christensen,15,105.0,25.1,0.042491257,Saved,Right Foot,Normal,From Throw In,21.142611002428247,True
+3773660,Levante UD,Daniel Gómez Alcón,18,111.6,49.1,0.15519324,Off T,Right Foot,Half Volley,Regular Play,12.384264209067897,True
+3773660,Barcelona,Antoine Griezmann,19,105.4,52.6,0.08913044,Saved,Right Foot,Normal,From Goal Kick,19.285227507084272,True
+3773660,Barcelona,Antoine Griezmann,21,111.7,45.7,0.11785503,Saved,Head,Normal,From Free Kick,10.0687635785135,True
+3773660,Barcelona,Clément Lenglet,21,114.8,32.4,0.41583925,Off T,Left Foot,Volley,From Free Kick,9.208691546577073,True
+3773660,Levante UD,Jorge Andújar Moreno,24,100.2,57.3,0.025486808,Off T,Right Foot,Normal,From Goal Kick,26.293155002775908,False
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,25,107.8,38.6,0.038136665,Off T,Head,Normal,From Goal Kick,12.280065146407004,True
+3773660,Levante UD,Daniel Gómez Alcón,27,94.7,45.3,0.03797323,Saved,Right Foot,Normal,From Corner,25.849177936638522,False
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,29,101.0,50.6,0.052133597,Wayward,Left Foot,Normal,Regular Play,21.756838005555863,True
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,36,92.5,49.6,0.037801396,Blocked,Left Foot,Normal,From Free Kick,29.127478435319457,False
+3773660,Barcelona,Jordi Alba Ramos,37,101.4,29.1,0.03626696,Saved,Left Foot,Volley,From Corner,21.55852499592678,True
+3773660,Barcelona,Antoine Griezmann,39,108.3,46.6,0.07884668,Saved,Right Foot,Volley,From Free Kick,13.43316790634287,True
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,42,90.6,38.4,0.033487294,Saved,Left Foot,Normal,From Free Kick,29.44350522611057,False
+3773660,Barcelona,Jordi Alba Ramos,42,57.9,20.6,0.004744799,Saved,Left Foot,Normal,Regular Play,65.05974177630895,False
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,50,115.1,29.3,0.07456455,Blocked,Left Foot,Normal,From Goal Kick,11.768602295939822,True
+3773660,Barcelona,Philippe Coutinho Correia,51,106.6,24.8,0.04363354,Off T,Right Foot,Normal,From Free Kick,20.26326725876161,True
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,53,100.1,33.9,0.053870168,Off T,Left Foot,Normal,From Throw In,20.813937638034766,True
+3773660,Barcelona,Philippe Coutinho Correia,55,96.7,32.2,0.032498784,Saved,Right Foot,Normal,From Free Kick,24.57091776877697,False
+3773660,Barcelona,Antoine Griezmann,61,88.6,44.5,0.017997747,Off T,Left Foot,Normal,Regular Play,31.720813356532968,False
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,62,108.1,30.5,0.08037411,Saved,Left Foot,Normal,Regular Play,15.226949793047856,True
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,64,91.7,41.0,0.047732294,Saved,Left Foot,Normal,From Free Kick,28.317662332897463,False
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,70,116.5,29.1,0.06139338,Saved,Left Foot,Volley,Regular Play,11.448143954370943,True
+3773660,Barcelona,Martin Braithwaite Christensen,71,112.6,42.6,0.10781629,Off T,Head,Normal,From Corner,7.843468620451037,True
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,75,107.1,30.2,0.22716096,Goal,Left Foot,Normal,Regular Play,16.20030863903525,True
+3773660,Barcelona,Lionel Andrés Messi Cuccittini,80,115.1,30.2,0.20898964,Saved,Left Foot,Normal,From Free Kick,10.956733089748973,True
+3773660,Levante UD,José Luis Morales Nogales,92,97.6,49.2,0.044519193,Blocked,Right Foot,Normal,Regular Play,24.215697388264505,False
+3773660,Levante UD,Francisco Javier Hidalgo Gómez,95,99.6,51.1,0.01992774,Saved,Right Foot,Volley,From Corner,23.22434067955429,False
+3773593,Barcelona,Philippe Coutinho Correia,5,96.5,32.0,0.041129347,Blocked,Right Foot,Normal,From Corner,24.82438317461282,False
+3773593,Barcelona,Anssumane Fati,14,107.2,32.3,0.08300531,Goal,Right Foot,Normal,Regular Play,14.937536610833794,True
+3773593,Barcelona,Sergi Roberto Carnicer,16,106.5,41.3,0.05040036,Off T,Left Foot,Half Volley,Regular Play,13.56244815658294,True
+3773593,Barcelona,Anssumane Fati,18,109.0,32.7,0.44277996,Goal,Right Foot,Normal,Regular Play,13.201893803541974,True
+3773593,Barcelona,Lionel Andrés Messi Cuccittini,25,114.0,33.9,0.20163552,Blocked,Left Foot,Normal,Regular Play,8.556284240252891,True
+3773593,Barcelona,Jordi Alba Ramos,25,118.5,28.9,0.013960704,Saved,Left Foot,Normal,Regular Play,11.200892821556684,True
+3773593,Barcelona,Lionel Andrés Messi Cuccittini,34,108.0,39.8,0.7835,Goal,Left Foot,Normal,Other,12.001666550941998,True
+3773593,Villarreal,Francis Joseph Coquelin,38,102.8,45.5,0.025156217,Blocked,Right Foot,Normal,From Corner,18.057962232765913,True
+3773593,Barcelona,Philippe Coutinho Correia,39,112.4,35.4,0.18298244,Saved,Right Foot,Volley,Regular Play,8.88369292580512,True
+3773593,Villarreal,Gerard Moreno Balaguero,44,104.3,34.8,0.08608912,Blocked,Left Foot,Normal,From Free Kick,16.538742394752997,True
+3773593,Barcelona,Lionel Andrés Messi Cuccittini,48,108.1,33.3,0.04752446,Saved,Left Foot,Volley,From Throw In,13.65650028374767,True
+3773593,Barcelona,Antoine Griezmann,55,105.9,33.5,0.10624492,Blocked,Left Foot,Half Volley,Regular Play,15.526107045875982,True
+3773593,Villarreal,Vicente Iborra De La Fuente,57,110.9,32.1,0.03460866,Off T,Head,Normal,From Corner,12.050726119201277,True
+3773593,Barcelona,Lionel Andrés Messi Cuccittini,65,103.9,54.9,0.054783225,Saved,Left Foot,Normal,From Keeper,21.936727194365158,False
+3773593,Barcelona,Lionel Andrés Messi Cuccittini,71,111.8,39.3,0.38601032,Off T,Head,Normal,From Goal Kick,8.229823813423959,True
+3773593,Villarreal,Mario Gaspar Pérez Martínez,80,107.2,58.8,0.0110668205,Off T,Right Foot,Normal,Regular Play,22.743790361327193,False
+3773593,Barcelona,Francisco António Machado Mota de Castro Trincão,81,102.8,34.8,0.067444965,Blocked,Left Foot,Normal,From Goal Kick,17.968861956172965,True
+3773593,Barcelona,Francisco António Machado Mota de Castro Trincão,85,104.4,51.9,0.08109221,Saved,Left Foot,Normal,Regular Play,19.620652384668553,True
+3773593,Barcelona,Lionel Andrés Messi Cuccittini,85,104.4,45.0,0.08542609,Saved,Right Foot,Normal,Regular Play,16.381697103780176,True
+3773593,Villarreal,Takefusa Kubo,88,107.6,56.5,0.02559387,Saved,Left Foot,Normal,Regular Play,20.64000968992021,True
+3773593,Barcelona,Miralem Pjanić,90,97.8,19.8,0.01091343,Off T,Right Foot,Normal,From Free Kick,30.01466308323317,False
+3773593,Barcelona,Lionel Andrés Messi Cuccittini,91,115.0,29.3,0.048478007,Blocked,Left Foot,Normal,Regular Play,11.81058846967415,True
+3773466,Barcelona,Antoine Griezmann,7,102.0,51.7,0.03504776,Off T,Left Foot,Volley,From Throw In,21.468348795377814,True
+3773466,Barcelona,Anssumane Fati,10,106.3,34.2,0.16714483,Goal,Right Foot,Normal,From Free Kick,14.877163708180401,True
+3773466,Celta Vigo,José Manuel Fontán Mondragón,16,100.9,20.7,0.011488415,Saved,Left Foot,Normal,From Throw In,27.15326867984773,False
+3773466,Celta Vigo,Iago Aspas Juncal,24,99.0,56.1,0.04606585,Blocked,Left Foot,Normal,From Free Kick,26.461481440010118,False
+3773466,Celta Vigo,Lucas René Olaza Catrofe,52,102.4,33.5,0.07217433,Blocked,Right Foot,Normal,From Kick Off,18.76192953829642,True
+3773466,Barcelona,Philippe Coutinho Correia,58,99.9,42.4,0.049639374,Post,Right Foot,Normal,From Keeper,20.2427764894048,True
+3773466,Barcelona,Philippe Coutinho Correia,59,103.8,39.5,0.12848127,Saved,Right Foot,Normal,From Throw In,16.207714212682802,True
+3773466,Barcelona,Lionel Andrés Messi Cuccittini,69,94.4,25.7,0.041658394,Blocked,Left Foot,Normal,From Free Kick,29.323199006929645,False
+3773466,Celta Vigo,Manuel Agudo Durán,72,105.4,18.7,0.007613767,Blocked,Right Foot,Normal,Regular Play,25.823438965405053,False
+3773466,Celta Vigo,Manuel Agudo Durán,72,114.1,26.1,0.039158177,Saved,Right Foot,Normal,Regular Play,15.100331122197288,True
+3773466,Celta Vigo,Miguel Baeza Pérez,72,110.6,37.2,0.12407055,Blocked,Left Foot,Normal,Regular Play,9.808159868191387,True
+3773466,Celta Vigo,Manuel Agudo Durán,78,98.8,37.5,0.061612327,Off T,Right Foot,Normal,From Goal Kick,21.346896729969913,True
+3773466,Celta Vigo,Manuel Agudo Durán,82,112.6,15.7,0.0078124246,Saved,Right Foot,Normal,From Free Kick,25.40177159176108,False
+3773466,Celta Vigo,Miguel Baeza Pérez,87,106.6,28.1,0.044369835,Blocked,Left Foot,Normal,From Free Kick,17.921216476567658,True
+3773466,Celta Vigo,Néstor Alejandro Araújo Razo,87,115.7,29.7,0.051826213,Off T,Head,Normal,From Corner,11.161541112229978,True
+3773466,Barcelona,Lionel Andrés Messi Cuccittini,94,112.8,28.1,0.15700933,Saved,Left Foot,Normal,Regular Play,13.908630414242806,True
+3773466,Barcelona,Sergi Roberto Carnicer,94,109.7,48.2,0.16067164,Goal,Right Foot,Half Volley,Regular Play,13.165485179058157,True
+3773585,Real Madrid,Federico Santiago Valverde Dipetta,4,109.9,49.3,0.31214735,Goal,Right Foot,Normal,From Keeper,13.729530217745975,True
+3773585,Real Madrid,Vinícius José Paixão de Oliveira Júnior,6,107.6,37.9,0.1424742,Off T,Right Foot,Half Volley,Regular Play,12.576565508913797,True
+3773585,Barcelona,Anssumane Fati,7,114.8,36.5,0.3955568,Goal,Right Foot,Half Volley,From Free Kick,6.26817357768593,True
+3773585,Barcelona,Philippe Coutinho Correia,12,97.5,22.1,0.0122884065,Blocked,Right Foot,Normal,From Free Kick,28.751695602172752,False
+3773585,Barcelona,Philippe Coutinho Correia,14,97.3,30.5,0.04776465,Saved,Right Foot,Normal,From Throw In,24.607722365143836,False
+3773585,Barcelona,Lionel Andrés Messi Cuccittini,18,94.3,31.8,0.037000425,Saved,Left Foot,Normal,Regular Play,26.976471229573377,False
+3773585,Real Madrid,Raphaël Varane,22,113.6,37.8,0.10819121,Blocked,Head,Normal,From Corner,6.767569726275458,True
+3773585,Real Madrid,Sergio Ramos García,22,113.2,36.5,0.102099925,Saved,Head,Normal,From Corner,7.647875521999555,True
+3773585,Barcelona,Lionel Andrés Messi Cuccittini,23,113.1,47.8,0.4412188,Saved,Right Foot,Normal,From Keeper,10.41393297462587,True
+3773585,Real Madrid,Karim Benzema,23,106.6,39.8,0.27210635,Saved,Right Foot,Normal,From Keeper,13.401492454200769,True
+3773585,Real Madrid,Karim Benzema,35,102.7,40.2,0.029511923,Blocked,Right Foot,Normal,Regular Play,17.301156030739676,True
+3773585,Real Madrid,Sergio Ramos García,47,112.3,44.1,0.08104959,Off T,Head,Normal,From Corner,8.723531395025757,True
+3773585,Real Madrid,Carlos Henrique Casimiro,50,85.3,43.7,0.018411724,Off T,Right Foot,Normal,Regular Play,34.89670471548854,False
+3773585,Barcelona,Anssumane Fati,51,108.8,53.6,0.03357311,Off T,Right Foot,Normal,From Goal Kick,17.618172436436193,True
+3773585,Barcelona,Philippe Coutinho Correia,53,112.2,31.3,0.0875304,Off T,Head,Normal,Regular Play,11.684605256490265,True
+3773585,Real Madrid,Karim Benzema,56,102.8,26.8,0.06166864,Off T,Right Foot,Normal,From Throw In,21.681328372588244,True
+3773585,Real Madrid,Sergio Ramos García,62,107.7,39.8,0.7835,Goal,Right Foot,Normal,Other,12.301625908797583,True
+3773585,Barcelona,Philippe Coutinho Correia,66,105.8,27.2,0.04570999,Blocked,Left Foot,Normal,From Throw In,19.11753122136852,True
+3773585,Barcelona,Philippe Coutinho Correia,69,109.8,37.3,0.1024136,Blocked,Right Foot,Half Volley,From Corner,10.551303237041388,True
+3773585,Barcelona,Lionel Andrés Messi Cuccittini,78,91.6,43.0,0.04581602,Blocked,Left Foot,Normal,From Free Kick,28.558011135231393,False
+3773585,Real Madrid,Toni Kroos,85,104.5,44.2,0.15770543,Saved,Right Foot,Normal,Regular Play,16.058953888718904,True
+3773585,Real Madrid,Toni Kroos,85,114.2,48.2,0.1677268,Saved,Right Foot,Half Volley,Regular Play,10.043903623591778,True
+3773585,Real Madrid,Sergio Ramos García,85,112.5,33.5,0.16929331,Saved,Left Foot,Volley,From Corner,9.924716620639604,True
+3773585,Real Madrid,Raphaël Varane,85,112.3,41.6,0.15622824,Off T,Head,Normal,From Corner,7.864477096412707,True
+3773585,Real Madrid,Vinícius José Paixão de Oliveira Júnior,86,94.0,40.3,0.04361772,Saved,Right Foot,Normal,Regular Play,26.00173071162764,False
+3773585,Real Madrid,Luka Modrić,89,105.4,42.2,0.29433554,Goal,Right Foot,Normal,From Goal Kick,14.764823060233395,True
+3773552,Barcelona,Pedro González López,6,112.2,39.9,0.54601175,Saved,Right Foot,Half Volley,Regular Play,7.800640999302554,True
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,8,115.6,49.8,0.08631221,Off T,Left Foot,Half Volley,From Throw In,10.742439201596628,True
+3773552,Barcelona,Ousmane Dembélé,12,102.5,18.5,0.010357936,Off T,Right Foot,Normal,Regular Play,27.721832551258224,False
+3773552,Barcelona,Ousmane Dembélé,18,104.9,39.7,0.11706126,Blocked,Right Foot,Half Volley,Regular Play,15.102979838429231,True
+3773552,Barcelona,Pedro González López,20,114.6,41.0,0.3090264,Off T,Head,Normal,From Corner,5.491812087098398,True
+3773552,Barcelona,Jordi Alba Ramos,24,110.2,26.8,0.05799438,Off T,Left Foot,Volley,Regular Play,16.44019464604966,True
+3773552,Barcelona,Frenkie de Jong,26,115.4,41.1,0.27720144,Goal,Right Foot,Normal,From Throw In,4.729693436154181,True
+3773552,Barcelona,Martin Braithwaite Christensen,30,113.8,46.1,0.08235023,Blocked,Left Foot,Normal,Regular Play,8.697700845625818,True
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,30,99.5,55.6,0.025608072,Blocked,Left Foot,Normal,Regular Play,25.76062887431128,False
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,31,96.5,34.7,0.045421854,Off T,Left Foot,Normal,From Corner,24.09024698918631,False
+3773552,Barcelona,Ousmane Dembélé,37,108.5,33.6,0.14145768,Saved,Right Foot,Normal,From Counter,13.160927019021115,True
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,40,96.2,34.8,0.07923236,Saved,Left Foot,Normal,From Free Kick,24.36144494893519,False
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,42,98.4,55.7,0.046973187,Off T,Right Foot,Normal,From Free Kick,26.70299608658174,False
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,50,101.2,44.8,0.07536486,Off T,Left Foot,Normal,From Throw In,19.40309253701584,True
+3773552,Barcelona,Ousmane Dembélé,56,108.0,24.9,0.05796124,Blocked,Left Foot,Lob,From Goal Kick,19.287560758167427,True
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,59,100.4,39.4,0.060821835,Off T,Left Foot,Normal,Regular Play,19.6091815229499,True
+3773552,Huesca,Rafael Mir Vicente,62,118.0,44.2,0.28106615,Saved,Right Foot,Backheel,From Corner,4.651881339845206,True
+3773552,Barcelona,Ousmane Dembélé,66,94.6,26.4,0.022451427,Off T,Right Foot,Normal,From Throw In,28.811803136909017,False
+3773552,Barcelona,Lionel Andrés Messi Cuccittini,67,113.4,28.3,0.13316546,Saved,Left Foot,Normal,Regular Play,13.433167906342863,True
+3773552,Huesca,Javier Ontiveros Parra,72,93.7,29.1,0.022933368,Saved,Right Foot,Normal,Regular Play,28.469281690973514,False
+3773552,Barcelona,Miralem Pjanić,76,97.6,44.3,0.05382589,Off T,Right Foot,Normal,Regular Play,22.80898945591409,False
+3773552,Barcelona,Ousmane Dembélé,76,110.4,31.3,0.28016123,Saved,Left Foot,Normal,Regular Play,12.955693729013506,True
+3773552,Huesca,Shinji Okazaki,84,103.6,32.7,0.032397743,Saved,Head,Normal,Regular Play,17.951323071016247,True
+3773552,Huesca,Juan Carlos Real Ruiz,87,105.8,35.2,0.051326882,Saved,Left Foot,Half Volley,From Free Kick,14.989329538041387,True
+3773672,Sevilla,Lucas Ariel Ocampos,3,114.7,35.0,0.1198475,Off T,Head,Normal,From Corner,7.286288492778747,True
+3773672,Sevilla,Lucas Ariel Ocampos,5,100.0,26.0,0.034823347,Blocked,Right Foot,Normal,Regular Play,24.413111231467404,False
+3773672,Sevilla,Luuk de Jong,7,109.6,39.2,0.10194666,Goal,Left Foot,Half Volley,From Corner,10.430723848324243,True
+3773672,Barcelona,Philippe Coutinho Correia,9,106.8,34.6,0.58375424,Goal,Right Foot,Normal,From Kick Off,14.261837188805657,True
+3773672,Barcelona,Jordi Alba Ramos,16,68.3,19.5,0.0047969674,Saved,Left Foot,Normal,From Free Kick,55.61600489067873,False
+3773672,Barcelona,Antoine Griezmann,20,107.8,29.2,0.26431355,Off T,Left Foot,Normal,From Counter,16.29355700883021,True
+3773672,Barcelona,Anssumane Fati,28,98.5,34.3,0.059634212,Saved,Right Foot,Normal,From Throw In,22.242751628339512,False
+3773672,Sevilla,Jesús Joaquín Fernández Sáez de la Torre,31,114.6,54.4,0.0206557,Off T,Right Foot,Normal,Regular Play,15.379206741571556,True
+3773672,Barcelona,Anssumane Fati,37,103.0,22.1,0.016373863,Off T,Right Foot,Normal,From Free Kick,24.686230980042296,False
+3773672,Barcelona,Lionel Andrés Messi Cuccittini,42,106.9,52.8,0.09066692,Off T,Left Foot,Normal,From Counter,18.31529415543195,True
+3773672,Sevilla,Joan Jordán Moreno,53,97.3,55.9,0.015267702,Off T,Right Foot,Half Volley,From Corner,27.714617081965972,False
+3773672,Sevilla,Ivan Rakitić,65,95.3,41.2,0.04549022,Off T,Left Foot,Normal,From Throw In,24.72913261721891,False
+3773672,Sevilla,Jules Koundé,67,112.7,44.4,0.089097686,Off T,Head,Normal,From Corner,8.523496934944012,True
+3773672,Sevilla,Jules Koundé,68,111.9,44.2,0.083537444,Off T,Head,Normal,From Corner,9.124143795447326,True
+3773672,Sevilla,Youssef En-Nesyri,72,115.9,33.9,0.1521444,Off T,Head,Normal,From Throw In,7.349829930005181,True
+3773672,Barcelona,Lionel Andrés Messi Cuccittini,80,95.2,32.4,0.036086563,Saved,Left Foot,Normal,From Free Kick,25.938388538997557,False
+3773672,Barcelona,Frenkie de Jong,81,110.1,43.1,0.3463066,Blocked,Right Foot,Normal,From Throw In,10.374005976477946,True
+3773672,Sevilla,Joan Jordán Moreno,83,89.8,40.6,0.025199624,Off T,Right Foot,Normal,Regular Play,30.205959676858477,False
+3773672,Barcelona,Francisco António Machado Mota de Castro Trincão,90,109.5,54.4,0.12810293,Saved,Left Foot,Normal,From Free Kick,17.821616088334974,True
+3773672,Barcelona,Sergi Roberto Carnicer,91,104.2,49.3,0.10179729,Blocked,Left Foot,Normal,Regular Play,18.33384847761102,True
+3773672,Barcelona,Lionel Andrés Messi Cuccittini,93,94.0,55.3,0.02161511,Off T,Left Foot,Normal,Regular Play,30.16769795658926,False
+3773587,Getafe,Nemanja Maksimović,17,110.3,50.1,0.057950504,Saved,Right Foot,Half Volley,Regular Play,14.003570973148245,True
+3773587,Barcelona,Lionel Andrés Messi Cuccittini,19,102.3,31.3,0.052492436,Post,Left Foot,Normal,Regular Play,19.72257589667232,True
+3773587,Getafe,Marc Cucurella Saseta,21,99.9,28.8,0.048669264,Saved Off Target,Right Foot,Normal,From Goal Kick,23.009780529157588,False
+3773587,Getafe,Mathías Olivera Miramontes,24,106.2,33.3,0.070784174,Wayward,Left Foot,Normal,From Free Kick,15.340469353966975,True
+3773587,Barcelona,Antoine Griezmann,29,107.1,48.9,0.41267076,Off T,Right Foot,Normal,From Counter,15.672268502038884,True
+3773587,Getafe,Jaime Mata Arnaiz,30,100.9,30.2,0.05172727,Off T,Right Foot,Normal,Regular Play,21.467417171145666,True
+3773587,Barcelona,Lionel Andrés Messi Cuccittini,41,94.2,40.3,0.06679972,Saved,Left Foot,Normal,From Free Kick,25.80174412709342,False
+3773587,Getafe,Jaime Mata Arnaiz,55,108.0,40.0,0.7835,Goal,Right Foot,Normal,Other,12.0,True
+3773587,Barcelona,Gerard Piqué Bernabéu,63,112.5,35.2,0.077347964,Off T,Head,Normal,From Free Kick,8.904493247793496,True
+3773587,Barcelona,Anssumane Fati,68,98.6,21.5,0.009594058,Off T,Right Foot,Normal,From Throw In,28.287983314474722,False
+3773587,Getafe,Marc Cucurella Saseta,78,101.1,39.0,0.13354984,Saved,Left Foot,Normal,Regular Play,18.926436537288264,True
+3773587,Getafe,Juan Camilo Hernández Suárez,82,108.8,29.4,0.15459204,Saved to Post,Left Foot,Normal,From Counter,15.420765220960991,True
+3773587,Getafe,Juan Camilo Hernández Suárez,88,103.5,48.0,0.3204304,Off T,Right Foot,Normal,From Counter,18.33712082089225,True
+3773587,Barcelona,Lionel Andrés Messi Cuccittini,93,105.6,38.8,0.1286825,Off T,Left Foot,Normal,Regular Play,14.44991349455076,True
+3773587,Barcelona,Philippe Coutinho Correia,95,105.1,28.1,0.036768384,Blocked,Right Foot,Normal,Regular Play,19.068822721919677,True
+3773587,Getafe,David Timor Copoví,97,89.1,46.2,0.030897133,Off T,Left Foot,Normal,From Free Kick,31.515869018638856,False
+3773656,Barcelona,Antoine Griezmann,2,114.2,47.5,0.15227662,Off T,Left Foot,Volley,From Throw In,9.48103369891701,True
+3773656,Atlético Madrid,Saúl Ñíguez Esclapez,4,98.8,30.7,0.03962588,Saved,Left Foot,Normal,Regular Play,23.15016198647431,False
+3773656,Atlético Madrid,Marcos Llorente Moreno,11,110.2,52.9,0.12261136,Post,Right Foot,Normal,From Corner,16.200308639035242,True
+3773656,Atlético Madrid,Saúl Ñíguez Esclapez,34,94.9,26.2,0.024586549,Off T,Left Foot,Normal,From Free Kick,28.643498389686965,False
+3773656,Barcelona,Lionel Andrés Messi Cuccittini,40,116.2,31.2,0.17527242,Saved,Left Foot,Normal,From Free Kick,9.585405573057407,True
+3773656,Atlético Madrid,Yannick Ferreira Carrasco,47,88.7,20.6,0.10752832,Goal,Right Foot,Normal,Regular Play,36.824584179593934,False
+3773656,Barcelona,Clément Lenglet,55,112.9,49.9,0.027858607,Saved,Head,Normal,From Corner,12.18277472499594,True
+3773656,Barcelona,Pedro González López,56,102.9,27.1,0.03746189,Blocked,Right Foot,Normal,Regular Play,21.420084033448603,True
+3773656,Barcelona,Clément Lenglet,56,114.4,43.4,0.20700896,Saved,Head,Normal,From Corner,6.551335741663674,True
+3773656,Atlético Madrid,Saúl Ñíguez Esclapez,58,105.7,29.0,0.04496801,Blocked,Left Foot,Half Volley,From Free Kick,18.041341413542394,True
+3773656,Barcelona,Ousmane Dembélé,64,101.4,54.4,0.049011447,Off T,Left Foot,Normal,From Throw In,23.522754940695183,False
+3773656,Barcelona,Miralem Pjanić,66,86.8,36.9,0.018691551,Off T,Right Foot,Normal,Regular Play,33.344414824674914,False
+3773656,Atlético Madrid,João Félix Sequeira,68,94.3,43.8,0.037845716,Blocked,Right Foot,Normal,From Goal Kick,25.979414927977114,False
+3773656,Atlético Madrid,Saúl Ñíguez Esclapez,69,114.1,49.3,0.049725365,Wayward,Head,Normal,From Corner,11.013627921806693,True
+3773656,Atlético Madrid,Yannick Ferreira Carrasco,72,109.5,22.6,0.014155507,Off T,Right Foot,Normal,Regular Play,20.322647465327936,True
+3773656,Barcelona,Lionel Andrés Messi Cuccittini,73,99.0,39.6,0.076766945,Blocked,Left Foot,Normal,From Goal Kick,21.003809178337153,True
+3773656,Barcelona,Lionel Andrés Messi Cuccittini,80,93.1,45.2,0.059487686,Blocked,Left Foot,Normal,From Free Kick,27.397992627198082,False
+3773656,Barcelona,Antoine Griezmann,81,109.6,44.0,0.05838845,Saved,Head,Normal,From Corner,11.142710621747302,True
+3773656,Atlético Madrid,Ángel Martín Correa,82,92.6,42.9,0.03224117,Blocked,Right Foot,Normal,Regular Play,27.5530397597071,False
+3773656,Atlético Madrid,Yannick Ferreira Carrasco,85,103.0,35.9,0.08964235,Off T,Right Foot,Half Volley,From Corner,17.487424052730006,True
+3773656,Barcelona,Francisco António Machado Mota de Castro Trincão,86,98.3,57.5,0.01871808,Off T,Left Foot,Normal,From Throw In,27.87723085243583,False
+3773656,Barcelona,Martin Braithwaite Christensen,87,101.4,51.7,0.04672806,Blocked,Right Foot,Half Volley,From Throw In,21.973848092675983,False
+3773656,Barcelona,Sergi Roberto Carnicer,88,88.0,43.0,0.026620906,Blocked,Right Foot,Normal,Regular Play,32.14031735997639,False
+3773377,Valencia,Gonçalo Manuel Ganchinho Guedes,2,101.9,21.7,0.022515863,Off T,Right Foot,Normal,From Counter,25.739075352467495,False
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,19,94.0,50.6,0.024988044,Blocked,Left Foot,Normal,From Throw In,28.077749197540747,False
+3773377,Valencia,Gonçalo Manuel Ganchinho Guedes,20,91.0,47.3,0.027199345,Off T,Right Foot,Normal,From Throw In,29.904681907687966,False
+3773377,Valencia,José Luis Gayà Peña,25,110.5,29.0,0.15781964,Blocked,Left Foot,Normal,Regular Play,14.534441853748634,True
+3773377,Valencia,Carlos Soler Barragán,28,97.8,35.3,0.06508526,Saved,Right Foot,Normal,Regular Play,22.69206909913682,False
+3773377,Valencia,Mouctar Diakhaby,28,113.7,39.9,0.22057752,Goal,Head,Normal,From Corner,6.300793600809342,True
+3773377,Barcelona,Philippe Coutinho Correia,30,94.2,30.2,0.01624422,Off T,Right Foot,Normal,From Kick Off,27.59855068658497,False
+3773377,Valencia,Gabriel Armando de Abreu,32,109.6,32.5,0.030817557,Blocked,Head,Normal,From Corner,12.822246293064259,True
+3773377,Valencia,Denis Cheryshev,32,98.1,41.6,0.036864728,Blocked,Right Foot,Half Volley,From Corner,21.958369702689684,False
+3773377,Barcelona,Antoine Griezmann,32,111.8,52.7,0.08293867,Saved,Right Foot,Normal,From Counter,15.11720873706519,True
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,39,94.4,34.8,0.033650175,Blocked,Left Foot,Normal,Regular Play,26.122786987609107,False
+3773377,Valencia,Maximiliano Gómez González,44,112.7,39.0,0.21967192,Saved,Head,Normal,Regular Play,7.368174807915455,True
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,48,108.2,40.5,0.7835,Saved,Left Foot,Normal,Other,11.810588469674148,True
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,48,118.2,42.8,0.83608377,Goal,Head,Diving Header,Other,3.3286633954186438,True
+3773377,Valencia,Denis Cheryshev,48,106.5,40.3,0.20238984,Off T,Left Foot,Normal,From Free Kick,13.503332921912278,True
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,50,99.3,31.2,0.04837009,Blocked,Right Foot,Normal,Regular Play,22.492887764802457,False
+3773377,Barcelona,Ronald Federico Araújo da Silva,51,107.6,34.4,0.055896245,Goal,Right Foot,Overhead Kick,From Corner,13.605881081355964,True
+3773377,Barcelona,Martin Braithwaite Christensen,55,117.9,43.5,0.2988362,Saved,Head,Normal,From Free Kick,4.081666326391708,True
+3773377,Valencia,Uroš Račić,57,102.3,47.8,0.057187174,Off T,Right Foot,Normal,From Free Kick,19.342440383777845,True
+3773377,Barcelona,Sergino Dest,60,105.6,58.1,0.018202478,Off T,Left Foot,Normal,From Free Kick,23.12941849679754,False
+3773377,Barcelona,Philippe Coutinho Correia,61,105.3,33.0,0.054206222,Wayward,Right Foot,Half Volley,Regular Play,16.281584689458214,True
+3773377,Barcelona,Jordi Alba Ramos,62,94.9,35.0,0.037506588,Off T,Left Foot,Half Volley,Regular Play,25.593163149560073,False
+3773377,Barcelona,Philippe Coutinho Correia,64,94.3,25.6,0.023462815,Blocked,Right Foot,Normal,From Corner,29.45929394944828,False
+3773377,Valencia,Maximiliano Gómez González,68,113.8,39.9,0.5974063,Goal,Right Foot,Normal,Regular Play,6.200806399171,True
+3773377,Barcelona,Óscar Mingueza García,70,88.9,33.2,0.018460058,Saved,Right Foot,Normal,From Counter,31.834729463276418,False
+3773377,Barcelona,Philippe Coutinho Correia,71,107.3,31.1,0.08993374,Saved,Left Foot,Normal,From Throw In,15.508062419270825,True
+3773377,Barcelona,Pedro González López,72,101.4,55.1,0.030860003,Off T,Right Foot,Normal,From Throw In,23.957671005337723,False
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,74,100.0,40.4,0.04318942,Saved,Left Foot,Normal,Regular Play,20.00399960007998,True
+3773377,Barcelona,Óscar Mingueza García,76,115.2,31.6,0.048609655,Off T,Right Foot,Volley,From Corner,9.674709297958257,True
+3773377,Barcelona,Philippe Coutinho Correia,77,105.2,27.1,0.07771912,Off T,Right Foot,Normal,Regular Play,19.632880583347923,True
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,82,96.0,39.3,0.071193315,Off T,Left Foot,Normal,From Free Kick,24.010206163213176,False
+3773377,Barcelona,Francisco António Machado Mota de Castro Trincão,83,103.5,51.4,0.038734686,Blocked,Left Foot,Normal,Regular Play,20.05517389602992,True
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,83,99.1,41.6,0.082155265,Saved,Right Foot,Normal,Regular Play,20.961154548354443,True
+3773377,Barcelona,Lionel Andrés Messi Cuccittini,85,97.2,55.6,0.02903015,Off T,Left Foot,Normal,From Free Kick,27.62607463973121,False
+3773377,Barcelona,Miralem Pjanić,87,101.6,30.6,0.04978775,Blocked,Left Foot,Normal,Regular Play,20.662042493422575,True
+3773586,Barcelona,Jordi Alba Ramos,8,99.2,39.8,0.049855277,Blocked,Right Foot,Normal,Regular Play,20.800961516237653,True
+3773586,Barcelona,Antoine Griezmann,18,101.8,43.3,0.06688733,Saved,Left Foot,Normal,From Free Kick,18.4967564724197,True
+3773586,Barcelona,Lionel Andrés Messi Cuccittini,22,112.3,28.1,0.080978274,Goal,Left Foot,Normal,From Goal Kick,14.173919711921611,True
+3773586,Granada,Yangel Clemente Herrera Ravelo,24,103.5,47.9,0.06897262,Off T,Left Foot,Normal,Regular Play,18.29371476764629,True
+3773586,Barcelona,Lionel Andrés Messi Cuccittini,25,98.5,40.7,0.04477437,Blocked,Left Foot,Normal,From Throw In,21.51139233057684,True
+3773586,Barcelona,Lionel Andrés Messi Cuccittini,28,101.7,42.7,0.08644311,Blocked,Left Foot,Normal,Regular Play,18.49810801136159,True
+3773586,Barcelona,Lionel Andrés Messi Cuccittini,35,111.1,49.2,0.34449932,Saved,Left Foot,Normal,Regular Play,12.800390619039725,True
+3773586,Barcelona,Samuel Yves Umtiti,36,110.5,39.9,0.06895016,Saved,Head,Normal,From Corner,9.500526301210897,True
+3773586,Granada,Yan Brice Eteki,38,94.4,33.1,0.032587416,Off T,Right Foot,Normal,From Throw In,26.51358142537518,False
+3773586,Barcelona,Antoine Griezmann,46,106.8,34.7,0.110251695,Off T,Right Foot,Normal,From Throw In,14.224275025462635,True
+3773586,Barcelona,Sergi Roberto Carnicer,52,107.3,48.4,0.09141455,Off T,Right Foot,Volley,Regular Play,15.226621424334423,True
+3773586,Granada,Darwin Daniel Machís Marcano,62,111.5,31.7,0.2860311,Goal,Left Foot,Normal,From Free Kick,11.880235687897779,True
+3773586,Barcelona,Ousmane Dembélé,73,106.8,52.1,0.053696465,Blocked,Left Foot,Normal,From Corner,17.90670265570968,True
+3773586,Barcelona,Lionel Andrés Messi Cuccittini,73,93.8,41.4,0.031419158,Blocked,Left Foot,Normal,From Corner,26.2373779177722,False
+3773586,Barcelona,Samuel Yves Umtiti,74,112.2,36.1,0.059971746,Off T,Head,Normal,From Corner,8.720665112249176,True
+3773586,Barcelona,Lionel Andrés Messi Cuccittini,77,92.0,37.9,0.050268207,Blocked,Left Foot,Normal,From Free Kick,28.07863956818421,False
+3773586,Granada,Jorge Molina Vidal,78,111.6,32.6,0.11818707,Goal,Head,Normal,From Goal Kick,11.194641575325226,True
+3773586,Granada,Luis Javier Suárez Charris,79,99.1,55.2,0.02989931,Blocked,Right Foot,Normal,Regular Play,25.84279396659735,False
+3773586,Barcelona,Francisco António Machado Mota de Castro Trincão,82,98.2,55.5,0.024233807,Blocked,Left Foot,Normal,From Throw In,26.748644825486018,False
+3773586,Barcelona,Gerard Piqué Bernabéu,91,103.6,46.0,0.026385948,Off T,Head,Normal,Regular Play,17.463103962354463,True
+3773586,Barcelona,Gerard Piqué Bernabéu,92,112.5,32.7,0.043142196,Blocked,Head,Normal,From Goal Kick,10.466135867644752,True
+3773372,Atlético Madrid,Thomas Lemar,2,104.2,23.5,0.03223021,Saved,Right Foot,Normal,From Throw In,22.84491190615538,False
+3773372,Atlético Madrid,Luis Alberto Suárez Díaz,9,98.4,21.4,0.011349107,Saved,Right Foot,Normal,From Free Kick,28.504736448527282,False
+3773372,Atlético Madrid,Ángel Martín Correa,18,111.2,40.7,0.12975436,Blocked,Left Foot,Normal,From Throw In,8.827797007181347,True
+3773372,Barcelona,Antoine Griezmann,28,98.5,23.9,0.01912897,Saved,Left Foot,Normal,From Free Kick,26.86000744601535,False
+3773372,Atlético Madrid,Marcos Llorente Moreno,33,103.5,47.7,0.11268436,Saved,Left Foot,Normal,Regular Play,18.208239892971534,True
+3773372,Atlético Madrid,Luis Alberto Suárez Díaz,33,118.3,27.8,0.010014265,Saved,Left Foot,Normal,Regular Play,12.317873193047571,True
+3773372,Atlético Madrid,Yannick Ferreira Carrasco,36,113.3,24.4,0.015683703,Saved,Left Foot,Normal,Regular Play,16.977926846349646,True
+3773372,Barcelona,Lionel Andrés Messi Cuccittini,40,102.6,43.8,0.11183241,Saved,Left Foot,Normal,Regular Play,17.810109488714556,True
+3773372,Barcelona,Moriba Kourouma Kourouma,41,114.3,32.9,0.05205782,Saved,Head,Normal,From Corner,9.104943712072032,True
+3773372,Atlético Madrid,Yannick Ferreira Carrasco,42,109.1,31.8,0.08884963,Blocked,Left Foot,Normal,From Counter,13.640014662748722,True
+3773372,Atlético Madrid,Felipe Augusto de Almeida Monteiro,44,108.2,40.2,0.099288896,Off T,Left Foot,Half Volley,From Corner,11.80169479354554,True
+3773372,Barcelona,Clément Lenglet,46,110.7,36.5,0.09788224,Off T,Head,Normal,From Free Kick,9.93680028983173,True
+3773372,Atlético Madrid,Luis Alberto Suárez Díaz,46,96.6,52.5,0.017875105,Off T,Right Foot,Half Volley,From Goal Kick,26.529417634015267,False
+3773372,Atlético Madrid,Yannick Ferreira Carrasco,54,105.2,27.9,0.037850484,Blocked,Right Foot,Half Volley,From Corner,19.116746585127917,True
+3773372,Barcelona,Moriba Kourouma Kourouma,61,111.3,39.5,0.07351296,Blocked,Left Foot,Half Volley,From Free Kick,8.71435597161374,True
+3773372,Barcelona,Gerard Piqué Bernabéu,62,111.4,38.4,0.08341414,Saved,Head,Normal,From Corner,8.74757109145161,True
+3773372,Barcelona,Lionel Andrés Messi Cuccittini,65,99.3,60.3,0.010816168,Saved,Left Foot,Normal,From Free Kick,28.99275771636772,False
+3773372,Barcelona,Gerard Piqué Bernabéu,66,109.2,38.6,0.041826356,Saved,Head,Normal,From Corner,10.890362712049582,True
+3773372,Barcelona,Antoine Griezmann,73,112.3,30.9,0.094216816,Saved Off Target,Left Foot,Half Volley,From Free Kick,11.920570456148484,True
+3773372,Barcelona,Moriba Kourouma Kourouma,77,88.4,32.1,0.029000422,Blocked,Right Foot,Normal,From Free Kick,32.572534442379514,False
+3773372,Barcelona,Ousmane Dembélé,84,113.3,42.5,0.19536367,Off T,Head,Normal,From Goal Kick,7.151223671512452,True
+3773372,Barcelona,Lionel Andrés Messi Cuccittini,89,92.3,35.2,0.055833194,Off T,Left Foot,Normal,From Free Kick,28.112808468738944,False
+3773387,Barcelona,Pedro González López,1,107.4,45.6,0.092869855,Off T,Right Foot,Normal,From Throw In,13.788400922514542,True
+3773387,Barcelona,Pedro González López,4,105.2,39.5,0.2808055,Saved,Right Foot,Normal,Regular Play,14.808443537387712,True
+3773387,Barcelona,Lionel Andrés Messi Cuccittini,5,99.3,47.7,0.09009651,Blocked,Left Foot,Normal,From Free Kick,22.085742007005337,False
+3773387,Levante UD,José Luis Morales Nogales,16,101.1,21.8,0.016432509,Off T,Left Foot,Half Volley,From Corner,26.23833073958784,False
+3773387,Barcelona,Clément Lenglet,22,94.8,26.0,0.030152528,Saved,Left Foot,Normal,From Free Kick,28.827764394763605,False
+3773387,Levante UD,José Luis Morales Nogales,22,101.2,54.5,0.018008176,Blocked,Right Foot,Normal,From Counter,23.742156599601476,False
+3773387,Barcelona,Lionel Andrés Messi Cuccittini,25,106.1,44.8,0.17742667,Goal,Left Foot,Volley,Regular Play,14.705441169852746,True
+3773387,Barcelona,Jordi Alba Ramos,27,108.9,30.1,0.12802587,Off T,Left Foot,Volley,From Throw In,14.873466307488643,True
+3773387,Barcelona,Lionel Andrés Messi Cuccittini,28,100.1,41.4,0.08561085,Off T,Left Foot,Normal,Regular Play,19.949185447030167,True
+3773387,Levante UD,Enis Bardhi,29,112.9,27.3,0.043615576,Saved,Right Foot,Normal,Regular Play,14.549914089093443,True
+3773387,Barcelona,Lionel Andrés Messi Cuccittini,31,99.6,38.7,0.05682641,Blocked,Left Foot,Normal,From Free Kick,20.44137960119131,True
+3773387,Barcelona,Pedro González López,33,112.6,40.5,0.73031336,Goal,Left Foot,Half Volley,From Counter,7.416872656315469,True
+3773387,Barcelona,Ronald Federico Araújo da Silva,38,116.2,35.7,0.27041194,Wayward,Head,Normal,From Corner,5.738466694161425,True
+3773387,Barcelona,Sergio Busquets i Burgos,44,112.0,45.3,0.12703572,Off T,Head,Normal,From Corner,9.596353474106714,True
+3773387,Barcelona,Lionel Andrés Messi Cuccittini,46,110.4,23.8,0.043584865,Off T,Left Foot,Normal,From Corner,18.830825791770256,True
+3773387,Levante UD,Roger Martí Salvador,50,107.6,44.4,0.06563735,Saved,Head,Normal,Regular Play,13.157507362718826,True
+3773387,Levante UD,Gonzalo Julián Melero Manzanares,52,108.3,43.1,0.112418555,Off T,Head,Normal,Regular Play,12.103718436910208,True
+3773387,Barcelona,Frenkie de Jong,55,98.8,39.6,0.15608229,Off T,Left Foot,Lob,From Throw In,21.203773249117717,True
+3773387,Levante UD,Gonzalo Julián Melero Manzanares,56,114.1,40.3,0.29242352,Goal,Head,Normal,From Goal Kick,5.907622195096777,True
+3773387,Barcelona,Lionel Andrés Messi Cuccittini,57,105.5,41.7,0.14952034,Blocked,Left Foot,Normal,From Kick Off,14.599315052426261,True
+3773387,Barcelona,Pedro González López,58,105.3,55.3,0.05393249,Blocked,Left Foot,Normal,From Kick Off,21.21744565210431,True
+3773387,Levante UD,José Luis Morales Nogales,58,108.4,29.3,0.073563784,Blocked,Right Foot,Normal,Regular Play,15.781318069160125,True
+3773387,Levante UD,José Luis Morales Nogales,59,104.8,28.2,0.06810596,Goal,Left Foot,Volley,Regular Play,19.24266093865399,True
+3773387,Levante UD,Mickaël Malsa,61,96.0,37.3,0.04825952,Saved,Right Foot,Normal,Regular Play,24.15139747509448,False
+3773387,Barcelona,Ousmane Dembélé,63,107.4,50.0,0.25552386,Goal,Right Foot,Normal,Regular Play,16.086018774078312,True
+3773387,Levante UD,Roberto Suárez Pier,72,109.6,44.5,0.04024041,Wayward,Head,Normal,From Corner,11.331813623599716,True
+3773387,Levante UD,Jorge De Frutos Sebastián,72,92.5,39.2,0.033267852,Off T,Left Foot,Normal,From Corner,27.511633902769205,False
+3773387,Levante UD,Daniel Gómez Alcón,73,93.6,40.0,0.0370884,Blocked,Right Foot,Normal,Regular Play,26.400000000000006,False
+3773387,Levante UD,Sergio León Limones,82,113.4,32.8,0.07768235,Goal,Right Foot,Normal,Regular Play,9.767292357659821,True
+3773387,Barcelona,Gerard Piqué Bernabéu,88,113.0,39.8,0.08561921,Off T,Head,Normal,From Corner,7.002856560004639,True
+3773387,Levante UD,Jorge Andújar Moreno,93,100.5,39.7,0.034326866,Blocked,Left Foot,Normal,Regular Play,19.50230755577401,True
+3773387,Levante UD,Sergio León Limones,93,91.9,33.3,0.026078822,Blocked,Right Foot,Normal,Regular Play,28.887713651308573,False
+3773387,Levante UD,Jorge Andújar Moreno,94,100.7,30.0,0.030130971,Blocked,Right Foot,Half Volley,From Corner,21.73683509621398,True
+3773695,Barcelona,Pedro González López,2,105.9,37.8,0.2651946,Off T,Right Foot,Normal,From Throw In,14.270599146496963,True
+3773695,Barcelona,Antoine Griezmann,9,106.3,44.2,0.048769183,Off T,Head,Normal,From Throw In,14.329340529138111,True
+3773695,Barcelona,Ronald Federico Araújo da Silva,11,113.3,42.5,0.37712702,Saved,Right Foot,Volley,From Free Kick,7.151223671512452,True
+3773695,Valencia,José Luis Gayà Peña,19,106.4,27.0,0.06899321,Off T,Left Foot,Normal,Regular Play,18.813824704190264,True
+3773695,Valencia,Uroš Račić,25,99.6,39.7,0.07683218,Saved,Right Foot,Normal,From Free Kick,20.402205763103172,True
+3773695,Barcelona,Lionel Andrés Messi Cuccittini,30,98.3,56.3,0.04494989,Off T,Left Foot,Normal,From Free Kick,27.140007369195757,False
+3773695,Valencia,Gonçalo Manuel Ganchinho Guedes,48,113.8,32.5,0.4286973,Saved,Right Foot,Normal,Regular Play,9.730878685915267,True
+3773695,Valencia,Gabriel Armando de Abreu,49,115.6,44.2,0.5143056,Goal,Head,Normal,From Corner,6.082762530298226,True
+3773695,Valencia,Thierry Rendall Correia,51,114.0,51.5,0.0907733,Off T,Right Foot,Half Volley,Regular Play,12.971121771072847,True
+3773695,Barcelona,Antoine Griezmann,53,103.4,29.9,0.07414111,Blocked,Left Foot,Normal,Regular Play,19.431160541768982,True
+3773695,Barcelona,Lionel Andrés Messi Cuccittini,56,108.2,40.1,0.7835,Saved,Left Foot,Normal,Other,11.800423721205943,True
+3773695,Barcelona,Pedro González López,56,115.3,32.7,0.11593364,Blocked,Right Foot,Volley,Other,8.682165628459295,True
+3773695,Barcelona,Lionel Andrés Messi Cuccittini,56,117.3,38.6,0.43860507,Goal,Left Foot,Half Volley,Other,3.0413812651491114,True
+3773695,Barcelona,Frenkie de Jong,62,112.2,45.3,0.12002992,Saved,Head,Normal,Regular Play,9.430270409696634,True
+3773695,Barcelona,Antoine Griezmann,62,117.1,35.7,0.5839777,Goal,Left Foot,Half Volley,Regular Play,5.186520991955977,True
+3773695,Barcelona,Jordi Alba Ramos,66,106.6,28.2,0.06148336,Blocked,Left Foot,Normal,From Free Kick,17.85497129653252,True
+3773695,Barcelona,Lionel Andrés Messi Cuccittini,68,95.0,43.0,0.06724297,Goal,Left Foot,Normal,From Free Kick,25.179356624028344,False
+3773695,Valencia,Uroš Račić,70,104.0,44.3,0.028735718,Blocked,Left Foot,Volley,From Free Kick,16.567739737212193,True
+3773695,Barcelona,Lionel Andrés Messi Cuccittini,81,110.2,33.2,0.07695855,Blocked,Left Foot,Normal,From Free Kick,11.928118040998752,True
+3773695,Barcelona,Jordi Alba Ramos,81,99.5,28.9,0.027737176,Off T,Left Foot,Half Volley,From Free Kick,23.312228550698453,False
+3773695,Valencia,Carlos Soler Barragán,82,91.1,32.9,0.026329285,Goal,Right Foot,Normal,Regular Play,29.75936827286494,False
+3773695,Valencia,Kevin Gameiro,84,101.1,42.8,0.050553743,Blocked,Right Foot,Normal,Regular Play,19.10628168953866,True
+3773695,Valencia,Christian Gabriel Oliva Giménez,89,87.9,44.5,0.016389068,Off T,Right Foot,Half Volley,From Goal Kick,32.41388591329339,False
+3773369,Huesca,Rafael Mir Vicente,1,107.1,57.2,0.041122954,Saved,Right Foot,Normal,From Counter,21.500000000000004,True
+3773369,Barcelona,Sergino Dest,9,99.3,55.1,0.028305097,Saved,Left Foot,Normal,From Throw In,25.622255950637918,False
+3773369,Barcelona,Lionel Andrés Messi Cuccittini,12,99.4,33.0,0.037069704,Goal,Left Foot,Normal,Regular Play,21.756838005555856,True
+3773369,Barcelona,Lionel Andrés Messi Cuccittini,15,108.0,34.2,0.11486765,Off T,Right Foot,Normal,From Throw In,13.328165665236908,True
+3773369,Huesca,Pablo Maffeo Becerra,25,104.1,43.0,0.10047175,Saved,Right Foot,Normal,From Throw In,16.180543872194168,True
+3773369,Barcelona,Lionel Andrés Messi Cuccittini,28,94.5,39.3,0.02686927,Blocked,Left Foot,Half Volley,From Corner,25.50960603380617,False
+3773369,Barcelona,Jordi Alba Ramos,32,117.7,32.0,0.17537762,Post,Left Foot,Normal,From Free Kick,8.324061508662703,True
+3773369,Barcelona,Antoine Griezmann,34,95.5,40.7,0.045417245,Goal,Left Foot,Normal,Regular Play,24.509997960016236,False
+3773369,Barcelona,Frenkie de Jong,41,113.3,41.0,0.24260828,Post,Right Foot,Half Volley,From Corner,6.774215821775981,True
+3773369,Barcelona,Ousmane Dembélé,45,104.6,53.3,0.056286238,Blocked,Left Foot,Normal,From Corner,20.34821859524809,True
+3773369,Huesca,Rafael Mir Vicente,48,108.0,40.0,0.7835,Goal,Right Foot,Normal,Other,12.0,True
+3773369,Barcelona,Lionel Andrés Messi Cuccittini,50,88.0,36.0,0.02805511,Blocked,Left Foot,Normal,From Free Kick,32.2490309931942,False
+3773369,Barcelona,Óscar Mingueza García,52,114.2,36.4,0.1422084,Goal,Head,Normal,From Corner,6.826419266350403,True
+3773369,Huesca,Rafael Mir Vicente,56,119.3,42.5,0.8665923,Off T,Other,Normal,Regular Play,2.5961509971494348,True
+3773369,Huesca,Pablo Ínsua Blanco,64,108.1,39.9,0.054010592,Off T,Head,Normal,From Corner,11.900420160649796,True
+3773369,Barcelona,Lionel Andrés Messi Cuccittini,70,108.7,13.9,0.029017191,Off T,Left Foot,Normal,Regular Play,28.44116734594415,False
+3773369,Huesca,Rafael Mir Vicente,73,117.1,33.5,0.17957594,Wayward,Head,Normal,Regular Play,7.1175838597097005,True
+3773369,Huesca,David Ferreiro Quiroga,74,104.4,57.7,0.03496348,Saved,Right Foot,Normal,Regular Play,23.59343128923811,False
+3773369,Huesca,Rafael Mir Vicente,81,103.9,25.3,0.04132724,Off T,Right Foot,Normal,Regular Play,21.801376103356407,True
+3773369,Barcelona,Lionel Andrés Messi Cuccittini,89,94.6,47.5,0.031428445,Goal,Left Foot,Normal,Regular Play,26.484146201076605,False
+3773661,Barcelona,Lionel Andrés Messi Cuccittini,3,100.9,30.7,0.096754916,Post,Left Foot,Normal,Regular Play,21.2438226315322,True
+3773661,Barcelona,Lionel Andrés Messi Cuccittini,7,105.8,29.7,0.12135693,Goal,Left Foot,Normal,From Goal Kick,17.542234749312872,True
+3773661,Getafe,Takefusa Kubo,8,112.2,45.8,0.172511,Off T,Left Foot,Volley,From Kick Off,9.72008230417829,True
+3773661,Getafe,Ángel Luis Rodríguez Díaz,11,111.7,36.1,0.38125086,Wayward,Right Foot,Volley,Regular Play,9.170605214488297,True
+3773661,Barcelona,Lionel Andrés Messi Cuccittini,15,103.1,29.0,0.072197124,Off T,Left Foot,Normal,From Kick Off,20.164572894063493,True
+3773661,Barcelona,Lionel Andrés Messi Cuccittini,19,100.3,52.0,0.02507951,Saved,Left Foot,Volley,From Corner,23.067076104266015,False
+3773661,Barcelona,Lionel Andrés Messi Cuccittini,32,107.4,53.5,0.06314573,Saved to Post,Right Foot,Volley,From Free Kick,18.466456075814868,True
+3773661,Barcelona,Lionel Andrés Messi Cuccittini,32,118.8,47.6,0.10368549,Goal,Left Foot,Half Volley,From Free Kick,7.694153624668539,True
+3773661,Getafe,Sofian Chakla,49,112.6,37.0,0.094237916,Wayward,Head,Normal,From Corner,7.984985911070857,True
+3773661,Getafe,Enes Ünal,68,107.8,40.0,0.7835,Goal,Right Foot,Normal,Other,12.200000000000003,True
+3773661,Getafe,José Antonio Miranda Boacho,77,114.4,32.3,0.07121298,Wayward,Head,Normal,From Throw In,9.52102935611481,True
+3773661,Barcelona,Ronald Federico Araújo da Silva,86,117.8,44.2,0.2115384,Goal,Head,Normal,From Corner,4.741307836451884,True
+3773661,Barcelona,Lionel Andrés Messi Cuccittini,90,108.7,50.6,0.14262015,Off T,Right Foot,Normal,From Free Kick,15.493547043850223,True
+3773661,Barcelona,Antoine Griezmann,92,107.6,40.8,0.7835,Goal,Left Foot,Normal,Other,12.425779653607258,True
+3773597,Real Sociedad,Mikel Oyarzabal Ugarte,5,93.3,51.9,0.017940493,Blocked,Left Foot,Half Volley,Regular Play,29.231831964486933,False
+3773597,Barcelona,Lionel Andrés Messi Cuccittini,10,101.2,34.4,0.091919795,Saved,Right Foot,Normal,From Free Kick,19.616319736382763,True
+3773597,Barcelona,Lionel Andrés Messi Cuccittini,16,99.5,45.1,0.049781468,Blocked,Left Foot,Normal,Regular Play,21.124866863485792,True
+3773597,Real Sociedad,Alexander Isak,23,113.7,32.7,0.14847913,Saved,Right Foot,Normal,Regular Play,9.642613753542134,True
+3773597,Barcelona,Pedro González López,33,99.0,39.9,0.06955153,Blocked,Right Foot,Normal,Regular Play,21.000238093888363,True
+3773597,Barcelona,Ousmane Dembélé,36,113.8,37.3,0.5343967,Saved,Right Foot,Normal,Regular Play,6.762396025078688,True
+3773597,Barcelona,Antoine Griezmann,36,113.3,37.0,0.36322647,Goal,Left Foot,Normal,Regular Play,7.340980860893184,True
+3773597,Real Sociedad,Alexander Isak,38,104.1,30.3,0.10617723,Saved,Right Foot,Normal,Regular Play,18.625251676151926,True
+3773597,Barcelona,Sergino Dest,42,112.6,50.4,0.2974366,Goal,Right Foot,Normal,From Free Kick,12.764011908487083,True
+3773597,Barcelona,Clément Lenglet,47,98.7,24.9,0.027093582,Blocked,Left Foot,Normal,From Throw In,26.109385285755003,False
+3773597,Real Sociedad,Martín Merquelanz Castellanos,48,100.1,23.4,0.030174686,Blocked,Left Foot,Normal,Regular Play,25.91466766138436,False
+3773597,Barcelona,Sergino Dest,52,113.2,43.5,0.46608183,Goal,Other,Normal,Regular Play,7.647875521999555,True
+3773597,Barcelona,Lionel Andrés Messi Cuccittini,55,109.0,38.0,0.29380873,Goal,Left Foot,Half Volley,Regular Play,11.180339887498949,True
+3773597,Barcelona,Ousmane Dembélé,58,116.9,49.8,0.11129596,Saved,Right Foot,Normal,From Free Kick,10.278618584226185,True
+3773597,Barcelona,Jordi Alba Ramos,59,94.5,44.2,0.045836944,Saved,Left Foot,Normal,From Corner,25.843567865138127,False
+3773597,Barcelona,Ousmane Dembélé,70,104.5,28.1,0.08974491,Goal,Left Foot,Normal,Regular Play,19.541238445912274,True
+3773597,Real Sociedad,Adnan Januzaj,72,98.0,57.3,0.013283472,Saved,Left Foot,Normal,From Free Kick,27.987318556803544,False
+3773597,Real Sociedad,Ander Barrenetxea Muguruza,76,101.6,49.3,0.10287425,Goal,Right Foot,Normal,Regular Play,20.61674077054858,True
+3773597,Barcelona,Lionel Andrés Messi Cuccittini,79,97.2,24.7,0.045369234,Blocked,Left Foot,Normal,From Free Kick,27.457785781085843,False
+3773597,Real Sociedad,Jon Bautista Orgilles,84,101.7,46.4,0.058957785,Off T,Right Foot,Normal,Regular Play,19.386851214160586,True
+3773597,Real Sociedad,Carlos Fernández Luna,86,102.1,46.7,0.10171633,Saved,Left Foot,Normal,Regular Play,19.112822920751405,True
+3773597,Real Sociedad,Jon Bautista Orgilles,86,97.8,31.6,0.04333997,Blocked,Left Foot,Normal,Regular Play,23.73604853382298,False
+3773597,Barcelona,Lionel Andrés Messi Cuccittini,88,108.6,35.7,0.23352109,Goal,Left Foot,Normal,Regular Play,12.184005909387935,True
+3773597,Real Sociedad,Adnan Januzaj,92,104.7,36.6,0.05765207,Blocked,Left Foot,Normal,Regular Play,15.673225577397906,True
+3773523,Barcelona,Lionel Andrés Messi Cuccittini,2,105.0,31.7,0.069486305,Blocked,Left Foot,Normal,Regular Play,17.14322023425004,True
+3773523,Barcelona,Antoine Griezmann,7,112.2,54.8,0.039226905,Off T,Left Foot,Volley,From Throw In,16.729614460590533,True
+3773523,Barcelona,Pedro González López,9,104.3,42.4,0.036171906,Off T,Head,Normal,Regular Play,15.882380174268594,True
+3773523,Real Sociedad,Adnan Januzaj,10,98.4,51.0,0.04054099,Blocked,Left Foot,Normal,From Goal Kick,24.239636960977773,False
+3773523,Barcelona,Ronald Federico Araújo da Silva,13,114.4,47.1,0.06310264,Blocked,Head,Normal,From Corner,9.042676594902638,True
+3773523,Barcelona,Sergino Dest,16,106.2,51.2,0.0970181,Blocked,Left Foot,Normal,From Throw In,17.773013250431116,True
+3773523,Barcelona,Lionel Andrés Messi Cuccittini,22,95.1,43.5,0.0359955,Off T,Left Foot,Normal,From Throw In,25.144780770569472,False
+3773523,Real Sociedad,Willian José da Silva,26,116.7,36.5,0.87173116,Goal,Right Foot,Normal,From Corner,4.810405388322275,True
+3773523,Barcelona,Jordi Alba Ramos,30,104.9,32.2,0.09473692,Goal,Right Foot,Normal,Regular Play,16.99558766268468,True
+3773523,Real Sociedad,Adnan Januzaj,35,100.1,33.4,0.090386756,Saved,Left Foot,Normal,From Throw In,20.96592473515061,True
+3773523,Barcelona,Antoine Griezmann,36,115.0,50.7,0.14346547,Post,Right Foot,Normal,Regular Play,11.810588469674153,True
+3773523,Barcelona,Martin Braithwaite Christensen,37,110.4,32.7,0.4491981,Off T,Left Foot,Normal,Regular Play,12.06026533704793,True
+3773523,Barcelona,Frenkie de Jong,42,111.2,40.1,0.40994686,Goal,Right Foot,Half Volley,From Throw In,8.800568163476717,True
+3773523,Barcelona,Lionel Andrés Messi Cuccittini,47,104.9,31.3,0.10391681,Saved,Left Foot,Normal,Regular Play,17.426990560621757,True
+3773523,Barcelona,Antoine Griezmann,54,117.6,40.0,0.9197092,Saved Off Target,Right Foot,Normal,From Throw In,2.4000000000000057,True
+3773523,Barcelona,Antoine Griezmann,55,112.9,29.3,0.14785951,Saved,Left Foot,Normal,From Throw In,12.841339493993603,True
+3773523,Real Sociedad,Mikel Merino Zazón,66,94.2,37.7,0.03899057,Saved,Left Foot,Normal,From Throw In,25.902316498722655,False
+3773523,Real Sociedad,Willian José da Silva,67,104.4,27.3,0.029353863,Wayward,Right Foot,Half Volley,Regular Play,20.115914098046844,True
+3773523,Barcelona,Carles Aleña Castillo,71,105.3,27.3,0.03842667,Off T,Left Foot,Normal,Regular Play,19.426270872197787,True
+3773523,Real Sociedad,Alexander Isak,72,112.7,47.6,0.27028278,Blocked,Right Foot,Normal,From Free Kick,10.538026380684382,True
+3773523,Real Sociedad,Willian José da Silva,74,112.1,49.8,0.040686663,Blocked,Head,Normal,From Corner,12.587692401707313,True
+3773523,Real Sociedad,Martín Zubimendi Ibáñez,77,103.2,36.5,0.06765859,Blocked,Left Foot,Normal,Regular Play,17.160710940983765,True
+3773523,Real Sociedad,Mikel Merino Zazón,77,96.2,38.6,0.03666588,Blocked,Left Foot,Normal,Regular Play,23.841140912296957,False
+3773523,Real Sociedad,Ignacio Monreal Eraso,77,115.6,31.0,0.10211778,Off T,Left Foot,Volley,Regular Play,10.017983829094558,True
+3773523,Real Sociedad,Willian José da Silva,83,101.0,40.9,0.06497119,Saved,Right Foot,Normal,From Free Kick,19.021303845951255,True
+3773523,Real Sociedad,Alexander Isak,83,112.7,43.7,0.27344212,Saved,Right Foot,Normal,From Free Kick,8.184130986244048,True
+3773571,Real Valladolid,Rubén Alcaraz Jiménez,4,86.8,43.9,0.027688935,Off T,Right Foot,Normal,From Free Kick,33.42828143952364,False
+3773571,Real Valladolid,Marcos André de Sousa Mendonça,6,110.3,25.3,0.061523218,Saved,Right Foot,Normal,Regular Play,17.611927776367924,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,6,98.3,40.6,0.071120165,Off T,Left Foot,Normal,Regular Play,21.70829334609241,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,20,102.7,32.8,0.04763609,Saved,Left Foot,Normal,Regular Play,18.73846311734236,True
+3773571,Barcelona,Clément Lenglet,20,113.4,41.8,0.22927417,Goal,Head,Normal,From Corner,6.841052550594822,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,22,95.9,52.1,0.029678088,Blocked,Left Foot,Normal,From Counter,26.96701689100965,False
+3773571,Barcelona,Martin Braithwaite Christensen,30,113.3,44.3,0.18661515,Saved,Right Foot,Backheel,Regular Play,7.961155694998058,True
+3773571,Barcelona,Martin Braithwaite Christensen,34,117.3,42.4,0.75549823,Goal,Left Foot,Volley,From Free Kick,3.6124783736376895,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,36,106.8,48.3,0.12011827,Saved,Left Foot,Normal,Regular Play,15.592626462530296,True
+3773571,Barcelona,Martin Braithwaite Christensen,40,100.8,45.6,0.07564912,Blocked,Right Foot,Normal,Regular Play,20.000000000000004,True
+3773571,Barcelona,Miralem Pjanić,43,100.6,42.1,0.08641284,Blocked,Right Foot,Normal,Regular Play,19.51332877804298,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,44,102.2,48.1,0.19114502,Saved,Right Foot,Volley,From Counter,19.556328898850108,True
+3773571,Barcelona,Martin Braithwaite Christensen,46,110.7,27.7,0.11572165,Blocked,Left Foot,Normal,From Throw In,15.420116731075675,True
+3773571,Real Valladolid,João Pedro Neves Filipe,46,95.7,54.1,0.025438597,Saved,Right Foot,Normal,From Throw In,28.094483444263574,False
+3773571,Barcelona,Martin Braithwaite Christensen,50,107.2,35.9,0.41636172,Off T,Right Foot,Normal,From Free Kick,13.440610105199836,True
+3773571,Real Valladolid,Pablo Hervías Ruiz,52,110.3,12.9,0.0089436425,Off T,Right Foot,Normal,From Free Kick,28.78367592924851,False
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,55,108.7,30.9,0.08781145,Blocked,Left Foot,Normal,From Free Kick,14.508618128546908,True
+3773571,Real Valladolid,Rubén Alcaraz Jiménez,55,96.5,28.3,0.0358443,Off T,Right Foot,Normal,Regular Play,26.25147614897113,False
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,57,104.8,33.5,0.14037842,Saved,Left Foot,Normal,From Goal Kick,16.531485111749642,True
+3773571,Barcelona,Miralem Pjanić,58,101.8,48.9,0.03783032,Off T,Right Foot,Half Volley,From Corner,20.259565641938135,True
+3773571,Real Valladolid,Javier Sánchez de Felipe,63,116.6,33.5,0.11257669,Off T,Head,Normal,From Corner,7.335529974037325,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,64,109.0,31.4,0.49982464,Goal,Left Foot,Normal,From Goal Kick,13.96280774056565,True
+3773571,Real Valladolid,Roque Mesa Quevedo,68,100.1,25.3,0.049908273,Off T,Right Foot,Normal,From Free Kick,24.74065480135884,False
+3773571,Real Valladolid,Fabián Ariel Orellana Valenzuela,71,102.2,39.5,0.1112897,Saved,Right Foot,Half Volley,From Throw In,17.807021087200404,True
+3773571,Real Valladolid,Enrique Pérez Muñoz,71,102.3,28.9,0.04020629,Saved,Left Foot,Normal,From Throw In,20.892582415776182,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,72,112.1,31.1,0.10538758,Saved,Left Foot,Normal,Regular Play,11.900420160649794,True
+3773571,Real Valladolid,Sergio Guardiola Navarro,82,108.7,32.3,0.07105544,Blocked,Left Foot,Normal,From Throw In,13.674063039199432,True
+3773571,Real Valladolid,Roque Mesa Quevedo,87,104.1,39.8,0.086523995,Off T,Right Foot,Normal,From Throw In,15.901257811883944,True
+3773571,Real Valladolid,Fabián Ariel Orellana Valenzuela,87,96.2,45.1,0.04163914,Saved,Left Foot,Normal,Regular Play,24.340295807569795,False
+3773571,Barcelona,Philippe Coutinho Correia,89,101.7,33.0,0.05710108,Off T,Right Foot,Normal,From Free Kick,19.593111034238536,True
+3773571,Barcelona,Martin Braithwaite Christensen,90,112.8,28.9,0.12002716,Off T,Left Foot,Half Volley,Regular Play,13.23064624271997,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,91,113.0,31.1,0.13615698,Post,Left Foot,Normal,From Free Kick,11.322985472038724,True
+3773571,Barcelona,Lionel Andrés Messi Cuccittini,93,98.0,45.1,0.047986306,Saved,Left Foot,Normal,Regular Play,22.58340098390851,False
+3773428,Barcelona,Frenkie de Jong,4,95.8,35.1,0.037747677,Blocked,Left Foot,Normal,Regular Play,24.69109151090733,False
+3773428,Cádiz,Álvaro Giménez Candela,7,119.2,43.1,0.8322185,Goal,Left Foot,Half Volley,From Corner,3.2015621187164247,True
+3773428,Barcelona,Philippe Coutinho Correia,13,115.8,27.7,0.033501506,Off T,Left Foot,Normal,From Goal Kick,12.997307413460684,True
+3773428,Barcelona,Martin Braithwaite Christensen,16,108.4,52.8,0.099161826,Saved,Right Foot,Normal,Regular Play,17.27425830535134,True
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,20,87.5,46.6,0.028775528,Off T,Left Foot,Normal,From Free Kick,33.16338342208165,False
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,25,95.4,42.2,0.055800863,Saved,Left Foot,Normal,From Free Kick,24.698178070456933,False
+3773428,Barcelona,Jordi Alba Ramos,46,103.9,29.8,0.043071486,Off T,Left Foot,Half Volley,Regular Play,19.05911855254591,True
+3773428,Barcelona,Pedro González López,49,95.5,33.8,0.033579685,Blocked,Right Foot,Normal,From Free Kick,25.27231687044146,False
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,49,101.6,34.7,0.03418125,Saved,Left Foot,Normal,From Free Kick,19.148106956041378,True
+3773428,Cádiz,Alberto Perea Correoso,51,115.0,25.6,0.016663868,Blocked,Left Foot,Normal,From Free Kick,15.243359209832981,True
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,53,99.6,33.2,0.07511334,Blocked,Right Foot,Normal,From Throw In,21.503488089144984,True
+3773428,Cádiz,Alberto Perea Correoso,61,98.7,34.0,0.0844549,Blocked,Right Foot,Normal,From Free Kick,22.128940327092028,False
+3773428,Cádiz,Jairo Izquierdo González,61,100.4,45.2,0.058033038,Wayward,Right Foot,Half Volley,From Free Kick,20.278066969018518,True
+3773428,Cádiz,Álvaro Negredo Sánchez,62,114.9,42.1,0.8948486,Goal,Left Foot,Normal,From Throw In,5.515432893255066,True
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,65,94.8,28.3,0.04378171,Blocked,Left Foot,Normal,From Free Kick,27.78362827277964,False
+3773428,Barcelona,Sergino Dest,72,109.3,50.9,0.18484822,Off T,Left Foot,Normal,From Throw In,15.274161188098024,True
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,72,99.2,48.5,0.04857075,Saved,Left Foot,Normal,From Counter,22.469757453074564,False
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,75,95.3,61.2,0.008729356,Saved,Left Foot,Normal,From Corner,32.55042242429428,False
+3773428,Cádiz,Iván Alejo Peralta,81,112.2,50.9,0.24093509,Saved,Right Foot,Normal,From Counter,13.403357788255894,True
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,83,104.1,41.1,0.052006382,Saved,Left Foot,Normal,From Free Kick,15.938004893963365,True
+3773428,Barcelona,Pedro González López,85,110.5,26.3,0.046075664,Blocked,Left Foot,Normal,Regular Play,16.671532623007398,True
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,85,97.1,34.5,0.039142195,Blocked,Left Foot,Normal,From Corner,23.551220775153045,False
+3773428,Barcelona,Miralem Pjanić,85,113.6,30.3,0.35434714,Saved,Right Foot,Normal,From Corner,11.62110149684616,True
+3773428,Cádiz,Omobolaji Habeeb Adekanye,85,103.1,31.7,0.16040003,Off T,Left Foot,Normal,From Counter,18.828170383762735,True
+3773428,Barcelona,Antoine Griezmann,86,104.2,48.0,0.097632065,Blocked,Right Foot,Normal,From Goal Kick,17.7098842458103,True
+3773428,Barcelona,Antoine Griezmann,88,114.0,27.7,0.1043663,Saved,Left Foot,Normal,From Throw In,13.685393673548454,True
+3773428,Barcelona,Miralem Pjanić,89,95.7,25.1,0.019929864,Blocked,Right Foot,Normal,From Corner,28.50438562747845,False
+3773428,Cádiz,Álvaro Negredo Sánchez,90,86.0,59.9,0.0071646436,Off T,Left Foot,Normal,From Corner,39.395558125250616,False
+3773428,Barcelona,Lionel Andrés Messi Cuccittini,93,100.7,40.4,0.08846703,Blocked,Left Foot,Normal,From Free Kick,19.30414463269481,True
+3764661,Athletic Club,Iñaki Williams Arthuer,2,106.5,32.4,0.14590277,Goal,Right Foot,Normal,From Counter,15.492256130079957,True
+3764661,Athletic Club,Yuri Berchiche Izeta,5,111.4,28.3,0.112238325,Off T,Left Foot,Normal,Regular Play,14.520674915443838,True
+3764661,Barcelona,Sergino Dest,6,109.9,45.3,0.21980739,Saved,Right Foot,Normal,From Goal Kick,11.40613869808709,True
+3764661,Athletic Club,Iker Muniain Goñi,10,112.7,29.1,0.08619522,Blocked,Left Foot,Normal,Regular Play,13.118688958886095,True
+3764661,Athletic Club,Iñaki Williams Arthuer,11,111.4,54.2,0.064354055,Saved,Right Foot,Normal,From Throw In,16.601204775557704,True
+3764661,Barcelona,Ousmane Dembélé,12,98.2,54.4,0.02880323,Saved,Right Foot,Normal,Regular Play,26.126614782631137,False
+3764661,Barcelona,Pedro González López,13,113.8,34.5,0.3094432,Goal,Head,Normal,From Corner,8.28794304999739,True
+3764661,Barcelona,Jordi Alba Ramos,22,115.1,25.0,0.012008104,Saved,Left Foot,Normal,From Throw In,15.780050697003482,True
+3764661,Barcelona,Ousmane Dembélé,33,101.5,53.5,0.04839525,Saved,Left Foot,Normal,From Free Kick,22.901964981197573,False
+3764661,Barcelona,Lionel Andrés Messi Cuccittini,37,103.5,29.4,0.083078615,Goal,Left Foot,Normal,From Free Kick,19.61147623204332,True
+3764661,Barcelona,Antoine Griezmann,39,102.1,29.3,0.07645778,Saved,Left Foot,Half Volley,Regular Play,20.85425616031414,True
+3764661,Barcelona,Lionel Andrés Messi Cuccittini,42,101.3,39.3,0.18456303,Off T,Left Foot,Normal,Regular Play,18.713097017864257,True
+3764661,Athletic Club,Unai Vencedor Paris,48,97.4,41.5,0.080862835,Saved,Left Foot,Volley,From Free Kick,22.64972406012929,False
+3764661,Athletic Club,Raúl García Escudero,51,117.0,34.0,0.19917129,Off T,Right Foot,Volley,From Throw In,6.708203932499369,True
+3764661,Barcelona,Lionel Andrés Messi Cuccittini,58,96.6,40.8,0.042003106,Post,Left Foot,Normal,Regular Play,23.413671220037244,False
+3764661,Barcelona,Lionel Andrés Messi Cuccittini,61,110.5,33.9,0.12407768,Goal,Left Foot,Normal,From Throw In,11.289818421923357,True
+3764661,Barcelona,Lionel Andrés Messi Cuccittini,71,104.1,38.8,0.15395764,Post,Left Foot,Normal,Regular Play,15.94521871910198,True
+3764661,Barcelona,Antoine Griezmann,76,89.7,19.4,0.0070316833,Off T,Left Foot,Normal,From Free Kick,36.63945960300179,False
+3764661,Barcelona,Antoine Griezmann,80,105.5,39.4,0.18285842,Saved,Left Foot,Half Volley,From Keeper,14.512408483776909,True
+3764661,Athletic Club,Alejandro Berenguer Remiro,81,102.1,55.2,0.036633816,Off T,Right Foot,Normal,Regular Play,23.482972554597943,False
+3764661,Athletic Club,Iker Muniain Goñi,89,101.7,32.5,0.116129294,Goal,Right Foot,Normal,Regular Play,19.777259668619408,True
+3773526,Barcelona,Antoine Griezmann,1,111.2,40.7,0.266739,Blocked,Left Foot,Normal,Regular Play,8.827797007181347,True
+3773526,Barcelona,Moriba Kourouma Kourouma,1,110.5,41.0,0.058639955,Blocked,Head,Normal,Regular Play,9.5524865872714,True
+3773526,Barcelona,Francisco António Machado Mota de Castro Trincão,3,107.5,56.9,0.040493246,Off T,Left Foot,Normal,Regular Play,21.020466217474816,True
+3773526,Barcelona,Lionel Andrés Messi Cuccittini,6,116.8,16.2,0.006312351,Saved,Left Foot,Half Volley,Regular Play,24.014162487998618,False
+3773526,Deportivo Alavés,Lucas Pérez Martínez,7,107.0,29.8,0.11578755,Off T,Right Foot,Half Volley,Regular Play,16.523922052587878,True
+3773526,Deportivo Alavés,Rodrigo Andrés Battaglia,26,101.4,47.7,0.0634542,Saved,Right Foot,Volley,From Throw In,20.13082213919739,True
+3773526,Barcelona,Francisco António Machado Mota de Castro Trincão,28,107.4,38.7,0.094767705,Goal,Left Foot,Normal,From Throw In,12.66688596301395,True
+3773526,Deportivo Alavés,Lucas Pérez Martínez,38,110.9,24.7,0.031467464,Blocked,Left Foot,Volley,From Free Kick,17.801685313475236,True
+3773526,Barcelona,Lionel Andrés Messi Cuccittini,42,98.3,57.6,0.018497137,Blocked,Left Foot,Normal,From Corner,27.940114530903415,False
+3773526,Barcelona,Lionel Andrés Messi Cuccittini,45,95.5,50.5,0.032672465,Goal,Left Foot,Normal,From Throw In,26.65520587052368,False
+3773526,Deportivo Alavés,Lucas Pérez Martínez,47,115.1,29.0,0.14918888,Off T,Left Foot,Normal,Regular Play,12.04200979903272,True
+3773526,Barcelona,Clément Lenglet,50,113.1,43.2,0.11680011,Off T,Head,Normal,From Free Kick,7.605918747922574,True
+3773526,Deportivo Alavés,Lucas Pérez Martínez,55,100.3,54.6,0.04689946,Off T,Left Foot,Normal,From Throw In,24.520399670478458,False
+3773526,Deportivo Alavés,Luis Jesús Rioja González,56,105.4,34.5,0.20239483,Goal,Left Foot,Normal,From Free Kick,15.601602481796537,True
+3773526,Barcelona,Lionel Andrés Messi Cuccittini,60,96.3,40.9,0.084337875,Saved,Left Foot,Normal,From Free Kick,23.717082451262847,False
+3773526,Barcelona,Francisco António Machado Mota de Castro Trincão,61,108.9,47.9,0.44745404,Saved,Left Foot,Normal,From Throw In,13.624243098242188,True
+3773526,Barcelona,Lionel Andrés Messi Cuccittini,63,103.3,32.5,0.086829886,Off T,Left Foot,Normal,From Corner,18.306829326784037,True
+3773526,Barcelona,Antoine Griezmann,65,111.7,32.2,0.18216425,Off T,Right Foot,Volley,From Throw In,11.389907813498752,True
+3773526,Barcelona,Ricard Puig Martí,67,102.0,29.7,0.036708944,Blocked,Right Foot,Normal,Regular Play,20.73861133248801,True
+3773526,Barcelona,Francisco António Machado Mota de Castro Trincão,73,106.5,49.4,0.33609983,Goal,Left Foot,Normal,From Throw In,16.4502279619463,True
+3773526,Barcelona,Lionel Andrés Messi Cuccittini,74,95.2,41.6,0.0511018,Goal,Left Foot,Normal,Regular Play,24.851559307214504,False
+3773526,Barcelona,Héctor Junior Firpo Adames,79,116.7,36.5,0.775584,Goal,Left Foot,Normal,Regular Play,4.810405388322275,True
+3773526,Barcelona,Lionel Andrés Messi Cuccittini,86,109.1,27.5,0.05737701,Saved,Left Foot,Half Volley,From Throw In,16.584932921178794,True
+3773474,Real Valladolid,Rubén Alcaraz Jiménez,1,88.9,24.5,0.006895869,Saved,Right Foot,Normal,From Throw In,34.74852514855846,False
+3773474,Real Valladolid,Kenan Kodro,8,112.0,48.2,0.04200279,Post,Head,Normal,From Free Kick,11.456002793295752,True
+3773474,Barcelona,Óscar Mingueza García,10,111.3,34.3,0.05892598,Saved,Head,Normal,From Corner,10.400961494015833,True
+3773474,Barcelona,Lionel Andrés Messi Cuccittini,15,95.4,37.0,0.07077411,Off T,Left Foot,Normal,From Free Kick,24.782251713676054,False
+3773474,Real Valladolid,Roque Mesa Quevedo,23,93.3,39.0,0.045960426,Off T,Right Foot,Normal,From Free Kick,26.718720029222958,False
+3773474,Real Valladolid,Roque Mesa Quevedo,24,103.3,48.1,0.0886227,Off T,Right Foot,Normal,From Counter,18.56071119327059,True
+3773474,Barcelona,Lionel Andrés Messi Cuccittini,26,106.4,32.1,0.08671496,Off T,Left Foot,Volley,From Throw In,15.728000508646984,True
+3773474,Barcelona,Ousmane Dembélé,31,112.4,39.4,0.094372034,Saved,Head,Normal,Regular Play,7.623647421018362,True
+3773474,Barcelona,Lionel Andrés Messi Cuccittini,39,104.4,31.7,0.11850036,Blocked,Left Foot,Normal,From Free Kick,17.670597047072288,True
+3773474,Barcelona,Pedro González López,45,94.5,35.5,0.04034434,Saved to Post,Right Foot,Normal,From Throw In,25.894014752448104,False
+3773474,Barcelona,Antoine Griezmann,46,98.6,26.0,0.031218188,Blocked,Left Foot,Normal,Regular Play,25.572641631243343,False
+3773474,Barcelona,Ousmane Dembélé,45,97.1,45.5,0.02935574,Blocked,Left Foot,Normal,From Kick Off,23.551220775153045,False
+3773474,Barcelona,Jordi Alba Ramos,46,94.5,31.2,0.026764685,Off T,Left Foot,Normal,From Kick Off,26.975729832573577,False
+3773474,Barcelona,Lionel Andrés Messi Cuccittini,50,95.6,43.7,0.069491625,Blocked,Left Foot,Normal,From Free Kick,24.67893838883675,False
+3773474,Barcelona,Clément Lenglet,54,89.7,29.5,0.022888316,Saved,Left Foot,Normal,From Free Kick,32.067740799750766,False
+3773474,Real Valladolid,Lucas René Olaza Catrofe,56,105.6,27.6,0.07399258,Off T,Left Foot,Normal,Regular Play,19.003157632351527,True
+3773474,Barcelona,Lionel Andrés Messi Cuccittini,56,93.8,48.7,0.028926669,Saved,Left Foot,Normal,From Goal Kick,27.606702084819915,False
+3773474,Barcelona,Ousmane Dembélé,58,105.7,52.5,0.089324,Saved,Right Foot,Normal,From Counter,18.993156662334986,True
+3773474,Barcelona,Antoine Griezmann,58,109.7,33.7,0.23962171,Off T,Head,Diving Header,From Counter,12.073938876770907,True
+3773474,Barcelona,Lionel Andrés Messi Cuccittini,63,94.1,53.1,0.047556136,Saved,Left Foot,Normal,From Free Kick,29.024472432759225,False
+3773474,Real Valladolid,Óscar Plano Pedreño,64,100.3,43.4,0.08495896,Off T,Right Foot,Half Volley,Regular Play,19.99124808509964,True
+3773474,Barcelona,Francisco António Machado Mota de Castro Trincão,65,99.8,49.5,0.06012288,Saved,Left Foot,Normal,From Throw In,22.322410264126948,False
+3773474,Barcelona,Ousmane Dembélé,68,101.5,23.0,0.027335716,Blocked,Right Foot,Normal,Regular Play,25.124689052802225,False
+3773474,Barcelona,Lionel Andrés Messi Cuccittini,70,94.1,39.9,0.032605354,Off T,Left Foot,Normal,From Throw In,25.900193049473593,False
+3773474,Barcelona,Martin Braithwaite Christensen,73,105.2,42.3,0.044615436,Blocked,Right Foot,Half Volley,From Free Kick,14.977650015940414,True
+3773474,Barcelona,Francisco António Machado Mota de Castro Trincão,77,97.7,36.9,0.035978932,Blocked,Left Foot,Half Volley,From Corner,22.514439810930227,False
+3773474,Real Valladolid,Marcos André de Sousa Mendonça,81,94.8,22.7,0.012275952,Saved,Right Foot,Normal,Regular Play,30.566812067992963,False
+3773474,Barcelona,Ousmane Dembélé,86,94.7,54.0,0.020810818,Off T,Right Foot,Normal,From Throw In,28.915220905260256,False
+3773474,Barcelona,Moriba Kourouma Kourouma,88,118.5,34.7,0.1587177,Off T,Head,Normal,From Throw In,5.508175741568162,True
+3773474,Barcelona,Ronald Federico Araújo da Silva,89,114.1,44.0,0.16704533,Wayward,Head,Normal,Regular Play,7.1281133548787,True
+3773474,Barcelona,Ousmane Dembélé,89,113.2,30.2,0.1926022,Goal,Left Foot,Volley,Regular Play,11.928118040998754,True
+3773474,Barcelona,Ricard Puig Martí,91,94.0,36.9,0.028431296,Saved,Right Foot,Normal,Regular Play,26.184155514356387,False
+3773625,Barcelona,Ousmane Dembélé,21,101.4,51.6,0.05545957,Saved,Left Foot,Normal,From Counter,21.9207664099593,False
+3773625,Barcelona,Lionel Andrés Messi Cuccittini,23,94.0,76.7,0.01042328,Saved,Left Foot,Normal,From Free Kick,44.97654944523868,False
+3773625,Barcelona,Ousmane Dembélé,28,106.9,27.6,0.18561214,Goal,Left Foot,Normal,From Counter,18.038015411901604,True
+3773625,Barcelona,Sergino Dest,39,103.2,51.6,0.07768283,Off T,Left Foot,Normal,Regular Play,20.415680248279752,True
+3773625,Sevilla,Jesús Navas González,50,104.0,57.8,0.028403657,Saved,Left Foot,Normal,Regular Play,23.934076125892137,False
+3773625,Barcelona,Ousmane Dembélé,58,109.0,41.9,0.08826354,Blocked,Right Foot,Normal,Regular Play,11.16288493177279,True
+3773625,Barcelona,Sergino Dest,58,113.2,51.6,0.15008782,Post,Right Foot,Normal,Regular Play,13.446189051177289,True
+3773625,Barcelona,Lionel Andrés Messi Cuccittini,59,103.3,36.6,0.09164401,Off T,Left Foot,Normal,Regular Play,17.042593699317017,True
+3773625,Sevilla,Sergio Escudero Palomo,63,107.5,35.9,0.033580188,Off T,Head,Normal,From Throw In,13.155227098001767,True
+3773625,Sevilla,Jesús Navas González,84,91.2,46.6,0.027327666,Blocked,Right Foot,Normal,Regular Play,29.546573405388312,False
+3773625,Barcelona,Lionel Andrés Messi Cuccittini,84,111.1,35.4,0.47366056,Saved,Left Foot,Normal,Regular Play,10.01848291908511,True
+3773625,Barcelona,Lionel Andrés Messi Cuccittini,84,117.9,35.6,0.7965053,Goal,Right Foot,Normal,Regular Play,4.875448697299559,True
+3773403,Barcelona,Lionel Andrés Messi Cuccittini,4,115.2,48.3,0.36933398,Saved,Left Foot,Normal,From Counter,9.588013350011561,True
+3773403,Barcelona,Antoine Griezmann,6,107.9,24.7,0.056701466,Saved,Left Foot,Normal,Regular Play,19.506409203131156,True
+3773403,Barcelona,Miralem Pjanić,13,98.1,44.8,0.04862372,Wayward,Right Foot,Half Volley,From Throw In,22.41985726984006,False
+3773403,Barcelona,Lionel Andrés Messi Cuccittini,13,114.5,34.0,0.1947482,Off T,Other,Normal,From Throw In,8.139410298049853,True
+3773403,Barcelona,Lionel Andrés Messi Cuccittini,19,95.2,41.2,0.070312485,Goal,Left Foot,Normal,From Free Kick,24.82901528454159,False
+3773403,Athletic Club,Yuri Berchiche Izeta,22,97.5,26.2,0.02427977,Saved,Right Foot,Normal,From Free Kick,26.394885868288956,False
+3773403,Barcelona,Ronald Federico Araújo da Silva,24,102.5,56.0,0.037534337,Off T,Right Foot,Normal,Regular Play,23.71181140275875,False
+3773403,Barcelona,Ousmane Dembélé,44,104.4,52.0,0.088365294,Off T,Right Foot,Normal,Regular Play,19.681463360228065,True
+3773403,Barcelona,Lionel Andrés Messi Cuccittini,47,99.1,38.1,0.032157544,Blocked,Left Foot,Normal,From Free Kick,20.9861859326558,True
+3773403,Athletic Club,Yuri Berchiche Izeta,51,97.8,26.9,0.030956576,Blocked,Left Foot,Normal,Regular Play,25.77692766797471,False
+3773403,Athletic Club,Iñaki Williams Arthuer,53,74.2,47.3,0.005635465,Off T,Right Foot,Lob,Regular Play,46.37811984114923,False
+3773403,Barcelona,Miralem Pjanić,56,110.3,39.0,0.09609764,Saved,Head,Normal,Regular Play,9.751410154434078,True
+3773403,Barcelona,Antoine Griezmann,58,113.8,36.4,0.17660448,Off T,Head,Normal,From Corner,7.169379331573971,True
+3773403,Athletic Club,Alejandro Berenguer Remiro,71,106.6,53.9,0.040407646,Off T,Right Foot,Normal,From Counter,19.307252523339514,True
+3773403,Barcelona,Antoine Griezmann,73,111.9,40.8,0.4385271,Goal,Left Foot,Normal,Regular Play,8.139410298049848,True
+3773403,Athletic Club,Raúl García Escudero,77,108.8,45.0,0.058877036,Blocked,Right Foot,Backheel,From Throw In,12.265398485169573,True
+3773403,Athletic Club,Raúl García Escudero,87,100.1,22.0,0.019761236,Saved,Right Foot,Normal,From Throw In,26.8330020683486,False
+3773403,Athletic Club,Yeray Álvarez López,87,105.5,50.0,0.0468683,Blocked,Right Foot,Normal,From Corner,17.613914953808536,True
+3773403,Barcelona,Jordi Alba Ramos,92,109.1,31.1,0.11953281,Saved,Left Foot,Normal,From Counter,14.07195793057953,True
+3773547,Barcelona,Philippe Coutinho Correia,10,108.4,44.7,0.43734065,Blocked,Right Foot,Normal,Regular Play,12.515989773086261,True
+3773547,Barcelona,Lionel Andrés Messi Cuccittini,12,88.5,40.1,0.02482484,Blocked,Left Foot,Normal,From Free Kick,31.50015872975881,False
+3773547,Barcelona,Lionel Andrés Messi Cuccittini,14,108.9,28.7,0.095153406,Blocked,Left Foot,Normal,Regular Play,15.839823231336892,True
+3773547,Barcelona,Antoine Griezmann,14,98.9,19.6,0.008915967,Saved,Left Foot,Volley,Regular Play,29.349105608178245,False
+3773547,Barcelona,Antoine Griezmann,15,109.5,29.3,0.047594182,Off T,Left Foot,Half Volley,From Throw In,14.991330828181999,True
+3773547,Osasuna,Ante Budimir,17,111.4,40.1,0.30100262,Off T,Left Foot,Volley,Regular Play,8.600581375697804,True
+3773547,Barcelona,Philippe Coutinho Correia,18,96.8,27.0,0.02650422,Saved,Right Foot,Normal,From Goal Kick,26.593984282164268,False
+3773547,Barcelona,Antoine Griezmann,22,104.6,38.1,0.5476993,Saved,Right Foot,Normal,From Throw In,15.51676512679109,True
+3773547,Barcelona,Philippe Coutinho Correia,27,101.3,36.9,0.059423734,Off T,Right Foot,Normal,From Corner,18.955210365490544,True
+3773547,Barcelona,Philippe Coutinho Correia,28,114.4,36.4,0.5379483,Saved,Right Foot,Normal,From Free Kick,6.657326790837291,True
+3773547,Barcelona,Martin Braithwaite Christensen,28,115.4,39.1,0.538664,Saved,Right Foot,Normal,From Free Kick,4.68721665810318,True
+3773547,Barcelona,Martin Braithwaite Christensen,28,116.6,39.0,0.38343006,Goal,Other,Normal,From Free Kick,3.5440090293338753,True
+3773547,Barcelona,Antoine Griezmann,41,99.5,32.4,0.04598454,Goal,Left Foot,Volley,From Free Kick,21.86343980255623,False
+3773547,Barcelona,Philippe Coutinho Correia,44,89.6,13.7,0.011511844,Off T,Right Foot,Normal,From Goal Kick,40.197636746455636,False
+3773547,Osasuna,Jon Moncayola Tollar,46,60.2,71.1,0.0034244903,Off T,Right Foot,Volley,Regular Play,67.40363491682032,False
+3773547,Osasuna,Facundo Sebastián Roncaglia,47,99.4,24.2,0.026971282,Blocked,Right Foot,Normal,Regular Play,25.961509971494333,False
+3773547,Osasuna,Rubén García Santos,45,91.3,27.4,0.018299572,Saved,Left Foot,Normal,From Throw In,31.34405844813336,False
+3773547,Osasuna,Facundo Sebastián Roncaglia,49,91.3,25.1,0.012166175,Saved,Right Foot,Normal,Regular Play,32.337284981890484,False
+3773547,Barcelona,Frenkie de Jong,50,114.9,41.5,0.26045203,Off T,Head,Normal,From Corner,5.3160135440008,True
+3773547,Barcelona,Lionel Andrés Messi Cuccittini,53,92.4,38.0,0.055670984,Off T,Left Foot,Normal,From Free Kick,27.67236889028476,False
+3773547,Barcelona,Philippe Coutinho Correia,56,114.5,38.2,0.7831072,Goal,Right Foot,Volley,Regular Play,5.787054518492114,True
+3773547,Osasuna,Ante Budimir,58,110.8,42.2,0.07707748,Blocked,Head,Normal,From Corner,9.459386872308379,True
+3773547,Osasuna,Roberto Torres Morales,67,107.5,43.6,0.15118743,Post,Right Foot,Normal,Regular Play,13.0080744155313,True
+3773547,Osasuna,Roberto Torres Morales,67,105.5,40.3,0.20719418,Saved,Left Foot,Normal,Regular Play,14.503103116229989,True
+3773547,Barcelona,Lionel Andrés Messi Cuccittini,72,100.8,33.9,0.060398698,Goal,Left Foot,Normal,From Corner,20.145719148245867,True
+3773547,Osasuna,Enrique Barja Afonso,78,114.8,48.9,0.2874946,Saved,Right Foot,Normal,Regular Play,10.307764064044152,True
+3773547,Osasuna,Enrique Barja Afonso,82,96.7,53.1,0.02197559,Saved,Left Foot,Normal,From Counter,26.73013280924732,False
+3773547,Barcelona,Ousmane Dembélé,83,110.7,24.8,0.04443936,Off T,Right Foot,Normal,Regular Play,17.81937148162078,True
+3773547,Barcelona,Francisco António Machado Mota de Castro Trincão,89,114.5,51.8,0.13278921,Off T,Left Foot,Normal,Regular Play,13.018832512940625,True
+3773547,Barcelona,Lionel Andrés Messi Cuccittini,91,99.8,30.6,0.0763903,Saved,Left Foot,Normal,From Free Kick,22.280035906613797,False
+3773415,Barcelona,Jordi Alba Ramos,15,96.0,48.7,0.02913763,Off T,Left Foot,Normal,From Corner,25.52821967940577,False
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,17,102.5,51.0,0.054893922,Blocked,Right Foot,Normal,From Counter,20.670026608594387,True
+3773415,Barcelona,Ousmane Dembélé,17,103.4,53.9,0.054084532,Off T,Right Foot,Normal,From Corner,21.651096969899694,True
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,18,92.0,47.2,0.024887033,Off T,Left Foot,Normal,From Throw In,28.910897599348242,False
+3773415,Barcelona,Antoine Griezmann,21,106.9,29.7,0.0489033,Blocked,Left Foot,Normal,Regular Play,16.664333169977127,True
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,22,105.1,43.5,0.15622492,Saved,Right Foot,Normal,From Throw In,15.305554547287732,True
+3773415,Barcelona,Ousmane Dembélé,26,101.9,52.8,0.018558212,Blocked,Left Foot,Normal,From Throw In,22.1686715885278,False
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,28,93.3,38.8,0.024946539,Saved,Left Foot,Normal,From Free Kick,26.726952688250865,False
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,31,108.1,40.2,0.7835,Goal,Left Foot,Normal,Other,11.901680553602509,True
+3773415,Cádiz,Rubén Sobrino Pozuelo,32,111.8,40.2,0.2813001,Off T,Other,Normal,From Kick Off,8.202438661763955,True
+3773415,Barcelona,Ousmane Dembélé,35,104.0,55.4,0.0357645,Saved,Left Foot,Normal,From Throw In,22.207206037680653,False
+3773415,Barcelona,Frenkie de Jong,43,112.3,48.3,0.18295826,Blocked,Right Foot,Normal,From Goal Kick,11.321660655575224,True
+3773415,Barcelona,Ousmane Dembélé,54,94.5,55.1,0.021027809,Off T,Right Foot,Normal,From Throw In,29.63545174280291,False
+3773415,Cádiz,Rubén Sobrino Pozuelo,60,104.8,24.5,0.018883605,Blocked,Right Foot,Normal,From Counter,21.709214633422373,True
+3773415,Barcelona,Ousmane Dembélé,62,109.4,44.5,0.117091976,Blocked,Left Foot,Normal,Regular Play,11.515641536623129,True
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,63,111.0,43.1,0.064979635,Off T,Head,Normal,Regular Play,9.518928511129811,True
+3773415,Barcelona,Ousmane Dembélé,65,109.0,51.7,0.20353648,Off T,Right Foot,Normal,Regular Play,16.058953888718907,True
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,72,115.4,33.7,0.14559855,Off T,Right Foot,Volley,Regular Play,7.800640999302551,True
+3773415,Barcelona,Miralem Pjanić,77,94.8,40.5,0.035109293,Off T,Right Foot,Normal,From Free Kick,25.20495982936692,False
+3773415,Barcelona,Lionel Andrés Messi Cuccittini,78,95.6,29.7,0.0346329,Off T,Left Foot,Normal,From Throw In,26.484901359076275,False
+3773415,Barcelona,Ricard Puig Martí,84,101.6,41.6,0.06228746,Off T,Right Foot,Normal,Regular Play,18.46943420898432,True
+3773415,Cádiz,Alejandro Fernández Iglesias,88,107.1,39.5,0.7835,Goal,Right Foot,Normal,Other,12.909686285886274,True
+3773415,Barcelona,Martin Braithwaite Christensen,92,108.9,42.8,0.04745491,Off T,Head,Normal,From Free Kick,11.447707194019241,True
+3764440,Barcelona,Francisco António Machado Mota de Castro Trincão,1,112.0,54.4,0.06967228,Saved,Left Foot,Normal,Regular Play,16.4730082255792,True
+3764440,Elche,Lucas Ariel Boyé,4,109.3,44.3,0.298439,Off T,Left Foot,Normal,From Throw In,11.531695452100703,True
+3764440,Barcelona,Francisco António Machado Mota de Castro Trincão,19,110.9,45.2,0.50473726,Saved,Left Foot,Normal,From Counter,10.480935072788112,True
+3764440,Elche,José Raúl Gutiérrez Parejo,32,92.9,23.2,0.007819599,Off T,Right Foot,Half Volley,From Corner,31.88494942759044,False
+3764440,Elche,Pere Milla Peña,43,98.5,36.0,0.07418988,Saved,Left Foot,Normal,Regular Play,21.86892772862904,False
+3764440,Barcelona,Lionel Andrés Messi Cuccittini,47,110.8,42.0,0.3347203,Goal,Left Foot,Normal,From Free Kick,9.414881836751858,True
+3764440,Elche,Lucas Ariel Boyé,49,106.2,33.5,0.095620655,Off T,Right Foot,Normal,From Throw In,15.254179755070409,True
+3764440,Barcelona,Lionel Andrés Messi Cuccittini,50,99.0,41.6,0.07844107,Blocked,Left Foot,Normal,From Goal Kick,21.06086417980041,True
+3764440,Barcelona,Ousmane Dembélé,63,99.9,32.4,0.04752228,Blocked,Right Foot,Normal,Regular Play,21.488834309938724,True
+3764440,Barcelona,Lionel Andrés Messi Cuccittini,68,114.1,37.4,0.57921857,Goal,Left Foot,Normal,From Counter,6.447480127925954,True
+3764440,Barcelona,Jordi Alba Ramos,72,113.2,38.6,0.42237553,Goal,Left Foot,Half Volley,From Free Kick,6.942621983083909,True
+3764440,Elche,Guido Marcelo Carrillo,74,111.7,44.7,0.09103747,Off T,Head,Normal,From Throw In,9.538343671728336,True
+3764440,Barcelona,Antoine Griezmann,81,114.4,49.4,0.57339495,Off T,Right Foot,Normal,Regular Play,10.94166349327194,True
+3764440,Elche,Guido Marcelo Carrillo,90,113.0,35.9,0.10336546,Wayward,Head,Normal,From Throw In,8.11233628494283,True
+3764440,Barcelona,Ousmane Dembélé,92,110.3,44.9,0.09100202,Blocked,Right Foot,Backheel,Regular Play,10.867382389517728,True
+3773689,Villarreal,Gerard Moreno Balaguero,3,112.2,48.9,0.07989315,Off T,Head,Normal,From Corner,11.834272263219226,True
+3773689,Barcelona,Antoine Griezmann,5,107.7,34.4,0.1654399,Blocked,Left Foot,Normal,Regular Play,13.514806694880987,True
+3773689,Villarreal,Gerard Moreno Balaguero,6,105.1,45.7,0.13912481,Off T,Left Foot,Half Volley,Regular Play,15.953056133543823,True
+3773689,Barcelona,Lionel Andrés Messi Cuccittini,8,88.9,46.7,0.030633146,Blocked,Left Foot,Normal,From Free Kick,31.813519138881816,False
+3773689,Barcelona,Sergino Dest,11,111.5,36.3,0.08775519,Blocked,Left Foot,Normal,Regular Play,9.270382947861433,True
+3773689,Barcelona,Sergio Busquets i Burgos,11,101.1,35.1,0.072396524,Blocked,Right Foot,Normal,Regular Play,19.524855953373898,True
+3773689,Barcelona,Frenkie de Jong,15,116.9,45.1,0.68142056,Saved,Right Foot,Normal,Regular Play,5.968249324550707,True
+3773689,Barcelona,Frenkie de Jong,15,118.7,44.0,0.7965756,Post,Left Foot,Normal,Regular Play,4.2059481689626175,True
+3773689,Barcelona,Lionel Andrés Messi Cuccittini,17,114.0,27.1,0.04878769,Saved,Left Foot,Normal,Regular Play,14.22708684165525,True
+3773689,Villarreal,Samuel Chimerenka Chukwueze,26,115.3,30.5,0.68502444,Goal,Left Foot,Normal,From Free Kick,10.599056561788885,True
+3773689,Barcelona,Antoine Griezmann,27,110.3,53.3,0.13418779,Goal,Left Foot,Lob,From Kick Off,16.461470165206997,True
+3773689,Barcelona,Antoine Griezmann,34,105.8,35.6,0.47253746,Goal,Left Foot,Normal,Regular Play,14.866068747318508,True
+3773689,Barcelona,Antoine Griezmann,43,109.8,25.8,0.063007504,Saved,Left Foot,Normal,From Throw In,17.483706700811474,True
+3773689,Villarreal,Gerard Moreno Balaguero,50,108.5,42.4,0.08553563,Saved,Head,Normal,From Free Kick,11.747765745025731,True
+3773689,Barcelona,Antoine Griezmann,55,107.3,42.6,0.1366131,Off T,Right Foot,Volley,From Free Kick,12.963410045200302,True
+3773689,Barcelona,Lionel Andrés Messi Cuccittini,56,105.2,46.9,0.06681567,Off T,Right Foot,Normal,Regular Play,16.32942130021759,True
+3773689,Villarreal,Etienne Capoue,62,105.4,36.2,0.13285223,Saved,Right Foot,Normal,From Corner,15.086417732516882,True
+3773689,Villarreal,Manuel Trigueros Muñoz,62,95.9,37.9,0.020191351,Blocked,Left Foot,Volley,From Corner,24.19132075766017,False
+3773689,Barcelona,Moriba Kourouma Kourouma,66,107.3,46.0,0.15358418,Off T,Right Foot,Normal,From Free Kick,14.045995870709918,True
+3773689,Villarreal,Pervis Josué Estupiñán Tenorio,69,103.0,25.8,0.045149013,Saved,Right Foot,Normal,From Free Kick,22.150395030337496,False
+3773689,Barcelona,Moriba Kourouma Kourouma,71,114.0,30.4,0.19521163,Blocked,Right Foot,Normal,Regular Play,11.320777358467925,True
+3773689,Villarreal,Gerard Moreno Balaguero,77,107.1,48.7,0.105785675,Off T,Right Foot,Normal,Regular Play,15.559562975867934,True
+3773689,Barcelona,Frenkie de Jong,83,100.3,42.4,0.217808,Off T,Right Foot,Lob,Regular Play,19.845654436173177,True
+3773689,Villarreal,Gerard Moreno Balaguero,86,111.1,43.3,0.06298122,Saved Off Target,Left Foot,Overhead Kick,From Free Kick,9.492101980067433,True
+3773689,Villarreal,Mario Gaspar Pérez Martínez,90,105.6,53.8,0.01554143,Off T,Right Foot,Half Volley,From Corner,19.944924166313594,True
+3773477,Barcelona,Antoine Griezmann,4,104.7,46.1,0.073126495,Off T,Left Foot,Normal,Regular Play,16.47118696390761,True
+3773477,Barcelona,Anssumane Fati,4,102.5,26.6,0.024471292,Off T,Right Foot,Normal,From Counter,22.041097976280582,False
+3773477,Real Betis,William Silva de Carvalho,7,110.3,42.2,0.0655744,Saved,Head,Normal,From Corner,9.94635611668917,True
+3773477,Real Betis,Alejandro Moreno Lopera,8,100.9,19.6,0.008963995,Blocked,Left Foot,Normal,From Corner,27.94584047760954,False
+3773477,Barcelona,Anssumane Fati,8,113.6,54.8,0.016886527,Saved,Right Foot,Normal,Regular Play,16.1245154965971,True
+3773477,Barcelona,Antoine Griezmann,10,102.9,30.8,0.06615006,Off T,Left Foot,Normal,From Counter,19.417775361765823,True
+3773477,Real Betis,Alejandro Moreno Lopera,16,104.7,23.9,0.04687369,Off T,Left Foot,Normal,Regular Play,22.210357943986402,False
+3773477,Real Betis,Cristian Tello Herrera,20,95.6,27.4,0.02755421,Saved,Right Foot,Normal,From Throw In,27.461245419681905,False
+3773477,Barcelona,Ousmane Dembélé,21,104.4,52.2,0.052126,Goal,Left Foot,Normal,From Keeper,19.80403999188044,True
+3773477,Barcelona,Antoine Griezmann,25,105.4,34.0,0.23999268,Off T,Left Foot,Normal,From Throw In,15.784802817900509,True
+3773477,Barcelona,Antoine Griezmann,32,108.0,40.0,0.7835,Saved,Left Foot,Normal,Other,12.0,True
+3773477,Real Betis,Cristian Tello Herrera,38,102.6,32.4,0.09418091,Off T,Right Foot,Normal,Regular Play,18.98736421939602,True
+3773477,Real Betis,Arnaldo Antonio Sanabria Ayala,46,110.0,37.7,0.12906268,Goal,Right Foot,Half Volley,Regular Play,10.261091559868277,True
+3773477,Barcelona,Pedro González López,46,104.5,31.0,0.030692302,Blocked,Right Foot,Normal,From Kick Off,17.92344832893492,True
+3773477,Barcelona,Antoine Griezmann,48,109.7,40.4,0.95298624,Goal,Left Foot,Normal,From Corner,10.307764064044148,True
+3773477,Real Betis,Cristian Tello Herrera,53,101.0,28.8,0.03995733,Blocked,Right Foot,Normal,From Throw In,22.055384830013736,False
+3773477,Real Betis,Arnaldo Antonio Sanabria Ayala,54,118.0,50.6,0.015270742,Saved,Right Foot,Half Volley,Regular Play,10.787029248129441,True
+3773477,Barcelona,Ousmane Dembélé,57,109.7,52.5,0.12409546,Blocked,Left Foot,Normal,Regular Play,16.19691328617894,True
+3773477,Barcelona,Lionel Andrés Messi Cuccittini,60,108.1,40.2,0.7835,Goal,Left Foot,Normal,Other,11.901680553602509,True
+3773477,Barcelona,Francisco António Machado Mota de Castro Trincão,69,109.2,47.4,0.14343098,Off T,Left Foot,Volley,From Throw In,13.09198227924251,True
+3773477,Barcelona,Pedro González López,71,105.1,32.0,0.07299935,Off T,Left Foot,Normal,Regular Play,16.9118301789014,True
+3773477,Real Betis,Lorenzo Jesús Morón García,72,110.9,40.0,0.45755082,Goal,Right Foot,Normal,From Throw In,9.099999999999994,True
+3773477,Barcelona,Francisco António Machado Mota de Castro Trincão,78,95.6,38.7,0.03978839,Saved,Left Foot,Normal,From Corner,24.434606606205065,False
+3773477,Barcelona,Lionel Andrés Messi Cuccittini,81,113.0,50.1,0.3188917,Goal,Left Foot,Normal,From Corner,12.288612614937458,True
+3773477,Real Betis,Marc Bartra Aregall,86,107.5,41.8,0.035399932,Off T,Head,Normal,From Free Kick,12.628935030318273,True
+3773477,Barcelona,Lionel Andrés Messi Cuccittini,87,111.5,49.2,0.0986297,Saved,Right Foot,Normal,Regular Play,12.525573839150047,True
+3773477,Barcelona,Pedro González López,89,115.2,32.9,0.36530197,Goal,Left Foot,Normal,From Throw In,8.57029754442633,True
+3773477,Real Betis,Lorenzo Jesús Morón García,90,99.2,30.4,0.032843675,Off T,Right Foot,Normal,From Keeper,22.908513701242164,False
+3773477,Real Betis,Lorenzo Jesús Morón García,93,114.6,48.7,0.052004397,Saved,Head,Normal,From Corner,10.239628899525613,True
