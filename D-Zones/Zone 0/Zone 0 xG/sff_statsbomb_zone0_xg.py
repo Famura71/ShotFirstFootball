@@ -33,7 +33,7 @@ BASE_URL = "https://raw.githubusercontent.com/statsbomb/open-data/master/data"
 DEFAULT_COMPETITION_ID = 11
 DEFAULT_SEASON_ID = 90
 
-CACHE_DIR = Path("../../statsbomb_cache")
+CACHE_DIR = Path("../../../statsbomb_cache")
 
 SB_PITCH_LENGTH = 120
 SB_PITCH_WIDTH = 80
