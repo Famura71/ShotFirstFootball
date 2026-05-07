@@ -200,20 +200,40 @@ def plot_zone0_shots(df: pd.DataFrame, output_path="sff_zone0_shots.png"):
     fig, ax = plt.subplots(figsize=(12, 8))
     draw_statsbomb_pitch(ax)
 
-    non_zone = df[~df["is_zone0"]]
-    zone = df[df["is_zone0"]]
+    goals = df[df["outcome"] == "Goal"]
+    non_goals = df[df["outcome"] != "Goal"]
 
-    ax.scatter(non_zone["x"], non_zone["y"], s=12, alpha=0.25, label="Other shots")
-    ax.scatter(zone["x"], zone["y"], s=28, alpha=0.85, label="Zone 0 shots")
+    # Non-goal shots: red
+    ax.scatter(
+        non_goals["x"],
+        non_goals["y"],
+        s=14,
+        alpha=0.45,
+        c="red",
+        label="No Goal"
+    )
 
+    # Goal shots: green
+    ax.scatter(
+        goals["x"],
+        goals["y"],
+        s=34,
+        alpha=0.9,
+        c="#00ff66",
+        edgecolors="white",
+        linewidths=0.4,
+        label="Goal"
+    )
+
+    # Zone 0 boundary
     theta = [math.pi / 2 - i * math.pi / 300 for i in range(301)]
     xs = [GOAL_X - radius * math.cos(t) for t in theta]
     ys = [GOAL_Y + radius * math.sin(t) for t in theta]
-    ax.plot(xs, ys, linewidth=2.5, label="Zone 0 boundary")
+    ax.plot(xs, ys, color="#00ff66", linewidth=2.5, label="Zone 0 boundary")
 
-    ax.text(104, 43, "Zone 0", fontsize=16, weight="bold")
+    ax.text(104, 43, "Zone 0", color="#00ff66", fontsize=16, weight="bold")
 
-    ax.legend(loc="lower left")
+    ax.legend(loc="lower left", facecolor="black", edgecolor="white", labelcolor="white")
     plt.tight_layout()
     plt.savefig(output_path, dpi=200, facecolor=fig.get_facecolor())
     print(f"Saved plot: {output_path}")
